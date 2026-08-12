@@ -1,14 +1,11 @@
 # 文件:Demetoribanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3ADemetoribanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3ADemetoribanner2%2Ejpg.html -->
 
 Demetori | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

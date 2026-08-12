@@ -1,6 +1,6 @@
 # 文件:U_WORK封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3AU_WORK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3AU_WORK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Nombre_Noir | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Nombre_Noir | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [U WORK](./U_WORK.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
+- [U WORK](./U_WORK.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/DmPLXMzVAAAqjso?format=jpg&amp;name=orig), [source tweet](https://twitter.com/mariaxnonno/status/1036895965997748225)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/DmPLXMzVAAAqjso?format=jpg&name=orig), [source tweet](https://twitter.com/mariaxnonno/status/1036895965997748225)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Unchain_mind封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AUnchain_mind%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AUnchain_mind%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Unreal_Line | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Unreal_Line | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Unchain mind](./Unchain_mind.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [火焰猫燐](./火焰猫燐.md)
+- [Unchain mind](./Unchain_mind.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [火焰猫燐](./火焰猫燐.md)
 
   
-源地址：[direct image link (max size)](https://lh5.googleusercontent.com/-Y6UrI5VRmIk/TXjPJTf3HUI/AAAAAAAAACw/jw9xoImm7T0/s0/%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5.png=s0?imgmax=0), [source page](http://unrealline.blogspot.com/2011/03/8.html)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://lh5.googleusercontent.com/-Y6UrI5VRmIk/TXjPJTf3HUI/AAAAAAAAACw/jw9xoImm7T0/s0/%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5.png=s0?imgmax=0), [source page](http://unrealline.blogspot.com/2011/03/8.html)  
 
 ---
 

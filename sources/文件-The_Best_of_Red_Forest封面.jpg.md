@@ -1,6 +1,6 @@
 # 文件:The_Best_of_Red_Forest封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3AThe_Best_of_Red_Forest%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3AThe_Best_of_Red_Forest%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 RED_FOREST_METAL_ORCHESTRA | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ RED_FOREST_METAL_ORCHESTRA | 专辑封面 | 封面图片
   
 
 - [The Best of Red Forest](./The_Best_of_Red_Forest.md)
-
-
-
 
 
 ---

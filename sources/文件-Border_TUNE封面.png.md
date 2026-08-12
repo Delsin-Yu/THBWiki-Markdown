@@ -1,6 +1,6 @@
 # 文件:Border_TUNE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3ABorder_TUNE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3ABorder_TUNE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Studio_Flash_Panda | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Studio_Flash_Panda | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Border TUNE](./Border_TUNE.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Border TUNE](./Border_TUNE.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:SBFRbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3ASBFRbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3ASBFRbanner%2Ejpg.html -->
 
 SBFR | 社团LOGO
 
   
-源地址：[[1]](http://sbfr.info/img/banner/banner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://sbfr.info/img/banner/banner.jpg)  
 
 ---
 

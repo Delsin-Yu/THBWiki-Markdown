@@ -1,6 +1,6 @@
 # 文件:Spark！_-スパーク-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3ASpark%EF%BC%81_-%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3ASpark%EF%BC%81_-%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 K2_SOUND | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ K2_SOUND | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Spark！ -スパーク-](./Spark！_-スパーク-.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [Spark！ -スパーク-](./Spark！_-スパーク-.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Chaos（黒甜郷裏）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AChaos%EF%BC%88%E9%BB%92%E7%94%9C%E9%83%B7%E8%A3%8F%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AChaos%EF%BC%88%E9%BB%92%E7%94%9C%E9%83%B7%E8%A3%8F%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 黒甜郷裏
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Chaos（黒甜郷裏）](./Chaos（黒甜郷裏）.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [Chaos（黒甜郷裏）](./Chaos（黒甜郷裏）.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[direct image link (converted from png to jpg)](https://lh6.googleusercontent.com/Dz7l1GCuh2ZGTVVRT8vNGuNQ22_tpyrGE1PCIhv2qlM_BsjzCw44JeZKEp7bI7r5FB21AOJrtgy4ktANVuPumpTOEaiLPlmPW9jvS5Y-9iGey2LDUmF2R38sstcs-auXdQ=w1280), [source page](https://sites.google.com/view/kokuten-kyori/秘封小説)
-  
-
-
-
-
+源地址：[direct image link (converted from png to jpg)](https://lh6.googleusercontent.com/Dz7l1GCuh2ZGTVVRT8vNGuNQ22_tpyrGE1PCIhv2qlM_BsjzCw44JeZKEp7bI7r5FB21AOJrtgy4ktANVuPumpTOEaiLPlmPW9jvS5Y-9iGey2LDUmF2R38sstcs-auXdQ=w1280), [source page](https://sites.google.com/view/kokuten-kyori/秘封小説)  
 
 ---
 

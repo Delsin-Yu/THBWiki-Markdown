@@ -1,16 +1,11 @@
 # 文件:KRASTERIIbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3AKRASTERIIbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3AKRASTERIIbanner%2Ejpg.html -->
 
 KRASTERII | 社团LOGO
 
   
-源地址：[[1]](http://kraster.jp/img/logo.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://kraster.jp/img/logo.jpg)  
 
 ---
 

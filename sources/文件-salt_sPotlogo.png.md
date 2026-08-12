@@ -1,18 +1,13 @@
 # 文件:salt_sPotlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3Asalt_sPotlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3Asalt_sPotlogo%2Epng.html -->
 
 salt_sPot | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20190111153720im_/http://shiodokoro.web.fc2.com/image/rogo1.png), [source page](https://web.archive.org/web/20181228155936/http://shiodokoro.web.fc2.com/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20190111153720im_/http://shiodokoro.web.fc2.com/image/rogo1.png), [source page](https://web.archive.org/web/20181228155936/http://shiodokoro.web.fc2.com/)  
 
 ---
 

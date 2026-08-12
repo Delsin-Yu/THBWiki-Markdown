@@ -1,6 +1,6 @@
 # 文件:1／6_gravity_in_virtual_reality封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A1%EF%BC%8F6_gravity_in_virtual_reality%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A1%EF%BC%8F6_gravity_in_virtual_reality%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 WKG_Tupper_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ WKG_Tupper_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [1／6 gravity in virtual reality](./1／6_gravity_in_virtual_reality.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [1／6 gravity in virtual reality](./1／6_gravity_in_virtual_reality.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:AMANOJAKU_Collection封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AAMANOJAKU_Collection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AAMANOJAKU_Collection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 みくらやめ | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [AMANOJAKU Collection](./AMANOJAKU_Collection.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
+- [AMANOJAKU Collection](./AMANOJAKU_Collection.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
   
-[Pixiv ID: 71120695](https://www.pixiv.net/artworks/71120695)
-  
-
-
-
-
+[Pixiv ID: 71120695](https://www.pixiv.net/artworks/71120695)  
 
 ---
 

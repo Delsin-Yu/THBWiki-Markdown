@@ -1,6 +1,6 @@
 # 文件:NOSTALGIA（IZMIZM）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3ANOSTALGIA%EF%BC%88IZMIZM%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3ANOSTALGIA%EF%BC%88IZMIZM%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 IZMIZM | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ IZMIZM | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [NOSTALGIA（IZMIZM）](./NOSTALGIA（IZMIZM）.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
-
-
-
+- [NOSTALGIA（IZMIZM）](./NOSTALGIA（IZMIZM）.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
 
 
 ---

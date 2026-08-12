@@ -1,16 +1,12 @@
 # 文件:星幽伽罗LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E6%98%9F%E5%B9%BD%E4%BC%BD%E7%BD%97LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E6%98%9F%E5%B9%BD%E4%BC%BD%E7%BD%97LOGO%2Epng.html -->
 
 星幽伽罗 | 社团LOGO
 
   
 星幽伽罗社团LOGO，人头是矜羯罗的
   
-
-
-
-
 
 ---
 

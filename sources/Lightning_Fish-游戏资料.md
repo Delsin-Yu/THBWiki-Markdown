@@ -1,6 +1,6 @@
 # Lightning_Fish/游戏资料
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\73\ns0%3ALightning_Fish%2F%E6%B8%B8%E6%88%8F%E8%B5%84%E6%96%99.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\73\ns0%3ALightning_Fish%2F%E6%B8%B8%E6%88%8F%E8%B5%84%E6%96%99.html -->
 
 永江衣玖 | 符卡
 
@@ -17,22 +17,16 @@
 </td></tr></tbody></table>
 
 
-
 ## 东方文花帖DS
 
 <table>
 <tbody><tr><td style="min-width:200px" colspan="4" align="center"><b>雷符「Lightning Fish」</b></td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡使用者</b></td><td style="min-width:250px" colspan="2" align="center"><a href="./永江衣玖.md" title="永江衣玖">永江衣玖</a></td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡血量</b></td><td style="min-width:250px" colspan="2" align="center">5张</td></tr>
 </tbody></table>
 
-
   
 每轮发射2波自机狙激光束，定位时间为发弹瞬间（发出“咔”一声时）；随着拍摄张数增加，中玉密度增加。  
 拍摄时机就是2波激光结束后，下一轮激光开始前冲上去拍摄。需要注意的是拍摄后下来时需要记住之前的激光定位点，不要激光束戳。原理很简单，但实际操作起来会各种撞。
   
-
-
-
-
 
 ---
 

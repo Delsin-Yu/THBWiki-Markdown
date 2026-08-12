@@ -1,22 +1,21 @@
 # SMILE＋
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\42\ns0%3ASMILE%EF%BC%8B.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\42\ns0%3ASMILE%EF%BC%8B.html -->
 
 2018年10月14日 由 山越えのイロハ 于 博丽神社秋季例大祭5 发布的画集同人志，A5尺寸一共12页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-SMILE＋封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2f/SMILE%EF%BC%8B%E5%B0%81%E9%9D%A2.jpg/147px-SMILE%EF%BC%8B%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="147" height="196" srcset="https://upload.thwiki.cc/thumb/2/2f/SMILE%EF%BC%8B%E5%B0%81%E9%9D%A2.jpg/221px-SMILE%EF%BC%8B%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2f/SMILE%EF%BC%8B%E5%B0%81%E9%9D%A2.jpg/294px-SMILE%EF%BC%8B%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="623" data-file-height="830"></a><div class="cover-char">角色：<a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> SMILE+ </td></tr><tr><td class="label">制作方</td><td><a href="./山越えのイロハ.md" title="山越えのイロハ">山越えのイロハ</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-SMILE＋封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2f/SMILE%EF%BC%8B%E5%B0%81%E9%9D%A2.jpg/147px-SMILE%EF%BC%8B%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="147" height="196" srcset="https://upload.thwiki.cc/thumb/2/2f/SMILE%EF%BC%8B%E5%B0%81%E9%9D%A2.jpg/221px-SMILE%EF%BC%8B%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2f/SMILE%EF%BC%8B%E5%B0%81%E9%9D%A2.jpg/294px-SMILE%EF%BC%8B%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="623" data-file-height="830"></a><div class="cover-char">角色：<a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2018-10-14&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD%235">第五回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A5</td></tr><tr><td class="label">页数</td><td>12P</td></tr><tr><td class="label">售价</td><td>会场售价：300日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2018-10-14 （<a href="./展会作品列表.md#5">第五回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A5</td></tr><tr><td class="label">页数</td><td>12P</td></tr><tr><td class="label">售价</td><td>会场售价：300日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/whis11/status/1050925644396150784">https://twitter.com/whis11/status/1050925644396150784</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/71156796">https://www.pixiv.net/artworks/71156796</a></td></tr></tbody></table>
 
 SMILE＋（同人志，山越えのイロハ，2018） - 2018年10月14日 由 山越えのイロハ 于 博丽神社秋季例大祭5 发布的画集同人志，A5尺寸一共12页，分级为 一般向
-
 ## Staff
+
 - うぃす (未找到链接)
 
 
@@ -24,14 +23,6 @@ SMILE＋（同人志，山越えのイロハ，2018） - 2018年10月14日 由 �
   
 あるキャラの笑顔と、その笑みを受けてのもうひとりとの表情との組み合わせ集です。
   
-  
-  
-
-  
-
-
-
-
 
 ---
 

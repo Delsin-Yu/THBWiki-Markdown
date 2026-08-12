@@ -1,12 +1,8 @@
 # 文件:MEGA_DRIVEbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3AMEGA_DRIVEbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3AMEGA_DRIVEbanner%2Ejpg.html -->
 
 MEGA_DRIVE | 社团LOGO
-
-
-
-
 
 
 ---

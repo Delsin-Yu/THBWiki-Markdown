@@ -1,14 +1,11 @@
 # 文件:HZN的作品.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AHZN%E7%9A%84%E4%BD%9C%E5%93%81%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AHZN%E7%9A%84%E4%BD%9C%E5%93%81%2Epng.html -->
 
 曲奇
 
 
 ## 摘要
-
-
-
 
 ---
 

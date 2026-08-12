@@ -1,6 +1,6 @@
 # BEVENTLAED/攻略
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\02\ns0%3ABEVENTLAED%2F%E6%94%BB%E7%95%A5.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\02\ns0%3ABEVENTLAED%2F%E6%94%BB%E7%95%A5.html -->
 
 yu-ki
 
@@ -14,9 +14,7 @@ yu-ki
 每种颜色的[UFO](./东方星莲船.md)都有独特的效果。如果清除红色[UFO](./东方星莲船.md)，你会增加残机值。  
 
 如果清除蓝色[UFO](./东方星莲船.md)，您将获得分数成倍。如果清除绿色[UFO](./东方星莲船.md)，你会增加炸弹威力。  
-
   
-
 
 ### 特性和进阶玩法
   
@@ -38,10 +36,6 @@ Call从 100% 开始并持续减少。Call百分比越高，进入的有色不明
 
 您需要尽快清除尽可能多的红色[UFO](./东方星莲船.md)才能存活。否则，如果残机值为零，游戏就结束了。
   
-
-
-
-
 
 ---
 

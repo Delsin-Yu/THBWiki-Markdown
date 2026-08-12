@@ -1,6 +1,6 @@
 # 文件:TRICK_OR_TREAT（COCCO）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3ATRICK_OR_TREAT%EF%BC%88COCCO%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3ATRICK_OR_TREAT%EF%BC%88COCCO%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 COCCO | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ COCCO | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TRICK OR TREAT（COCCO）](./TRICK_OR_TREAT（COCCO）.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [TRICK OR TREAT（COCCO）](./TRICK_OR_TREAT（COCCO）.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

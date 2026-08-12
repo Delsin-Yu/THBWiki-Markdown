@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（鬼人正邪1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E9%AC%BC%E4%BA%BA%E6%AD%A3%E9%82%AA1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E9%AC%BC%E4%BA%BA%E6%AD%A3%E9%82%AA1%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 鬼人正邪
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:SnowGalebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3ASnowGalebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3ASnowGalebanner%2Ejpg.html -->
 
 SnowGale | 社团LOGO
-
-
-
-
 
 
 ---

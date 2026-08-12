@@ -1,14 +1,11 @@
 # 文件:魅魔（怪绮谈立绘）B.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E9%AD%85%E9%AD%94%EF%BC%88%E6%80%AA%E7%BB%AE%E8%B0%88%E7%AB%8B%E7%BB%98%EF%BC%89B%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E9%AD%85%E9%AD%94%EF%BC%88%E6%80%AA%E7%BB%AE%E8%B0%88%E7%AB%8B%E7%BB%98%EF%BC%89B%2Epng.html -->
 
 ZUN绘 | 东方怪绮谈 | 官方游戏立绘 | 魅魔
 
 
 ## 文件说明
-
-
-
 
 ---
 

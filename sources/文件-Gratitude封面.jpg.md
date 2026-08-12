@@ -1,6 +1,6 @@
 # 文件:Gratitude封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3AGratitude%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3AGratitude%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 vita | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ vita | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Gratitude](./Gratitude.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Gratitude](./Gratitude.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore24610.jpg), [source page (suruga-ya ID: ZHORE24610)](https://www.suruga-ya.jp/product/detail/ZHORE24610)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore24610.jpg), [source page (suruga-ya ID: ZHORE24610)](https://www.suruga-ya.jp/product/detail/ZHORE24610)  
 
 ---
 

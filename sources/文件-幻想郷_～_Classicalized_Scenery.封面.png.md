@@ -1,6 +1,6 @@
 # 文件:幻想郷_～_Classicalized_Scenery.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E5%B9%BB%E6%83%B3%E9%83%B7_%EF%BD%9E_Classicalized_Scenery%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E5%B9%BB%E6%83%B3%E9%83%B7_%EF%BD%9E_Classicalized_Scenery%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Smalt_Erz | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Smalt_Erz | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻想郷 ～ Classicalized Scenery.](./幻想郷_～_Classicalized_Scenery..md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [幻想郷 ～ Classicalized Scenery.](./幻想郷_～_Classicalized_Scenery..md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[(converted to png)](https://web.archive.org/web/20110526130013/http://smalt-erz.mistysky.net/image/003_jacket.bmp)
-  
-
-
-
-
+源地址：[(converted to png)](https://web.archive.org/web/20110526130013/http://smalt-erz.mistysky.net/image/003_jacket.bmp)  
 
 ---
 

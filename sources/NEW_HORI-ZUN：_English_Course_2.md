@@ -1,31 +1,28 @@
 # NEW_HORI-ZUN：_English_Course_2
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e8\ns0%3ANEW_HORI-ZUN%EF%BC%9A_English_Course_2.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e8\ns0%3ANEW_HORI-ZUN%EF%BC%9A_English_Course_2.html -->
 
 2010年8月14日 由 ddiction 于 Comic Market 78 发布的漫画同人志，B5尺寸一共44页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-NEW_HORI-ZUN：English_Course_2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/56/NEW_HORI-ZUN%EF%BC%9AEnglish_Course_2%E5%B0%81%E9%9D%A2.jpg/141px-NEW_HORI-ZUN%EF%BC%9AEnglish_Course_2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="141" height="196" srcset="https://upload.thwiki.cc/thumb/5/56/NEW_HORI-ZUN%EF%BC%9AEnglish_Course_2%E5%B0%81%E9%9D%A2.jpg/212px-NEW_HORI-ZUN%EF%BC%9AEnglish_Course_2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/56/NEW_HORI-ZUN%EF%BC%9AEnglish_Course_2%E5%B0%81%E9%9D%A2.jpg/283px-NEW_HORI-ZUN%EF%BC%9AEnglish_Course_2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="416" data-file-height="576"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> NEW HORI-ZUN: English Course 2 </td></tr><tr><td class="label">制作方</td><td><a href="./ddiction.md" title="ddiction">ddiction</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-NEW_HORI-ZUN：English_Course_2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/56/NEW_HORI-ZUN%EF%BC%9AEnglish_Course_2%E5%B0%81%E9%9D%A2.jpg/141px-NEW_HORI-ZUN%EF%BC%9AEnglish_Course_2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="141" height="196" srcset="https://upload.thwiki.cc/thumb/5/56/NEW_HORI-ZUN%EF%BC%9AEnglish_Course_2%E5%B0%81%E9%9D%A2.jpg/212px-NEW_HORI-ZUN%EF%BC%9AEnglish_Course_2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/56/NEW_HORI-ZUN%EF%BC%9AEnglish_Course_2%E5%B0%81%E9%9D%A2.jpg/283px-NEW_HORI-ZUN%EF%BC%9AEnglish_Course_2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="416" data-file-height="576"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2010-08-14&#160;（<a href="/展会作品列表?e=Comic+Market%2378">Comic Market 78</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>44P</td></tr><tr><td class="label">售价</td><td>800日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2010-08-14 （<a href="./展会作品列表.md#78">Comic Market 78</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>44P</td></tr><tr><td class="label">售价</td><td>800日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://aki.s335.xrea.com/index_2011-03.html">http://aki.s335.xrea.com/index_2011-03.html</a></td></tr></tbody></table>
 
 NEW HORI-ZUN： English Course 2（同人志，ddiction，2010） - 2010年8月14日 由 ddiction 于 Comic Market 78 发布的漫画同人志，B5尺寸一共44页，分级为 一般向
-
 ## 预览
-- [](./文件-NEW_HORI-ZUN：_English_Course_2预览图1.jpg.md)- [](./文件-NEW_HORI-ZUN：_English_Course_2预览图2.jpg.md)
+
+- <img alt="NEW HORI-ZUN： English Course 2预览图1.jpg" src="https://upload.thwiki.cc/thumb/4/4f/NEW_HORI-ZUN%EF%BC%9A_English_Course_2%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/267px-NEW_HORI-ZUN%EF%BC%9A_English_Course_2%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="178" height="250" srcset="https://upload.thwiki.cc/thumb/4/4f/NEW_HORI-ZUN%EF%BC%9A_English_Course_2%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/402px-NEW_HORI-ZUN%EF%BC%9A_English_Course_2%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/4/4f/NEW_HORI-ZUN%EF%BC%9A_English_Course_2%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="411" data-file-height="576"> 
+- <img alt="NEW HORI-ZUN： English Course 2预览图2.jpg" src="https://upload.thwiki.cc/thumb/2/2f/NEW_HORI-ZUN%EF%BC%9A_English_Course_2%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/267px-NEW_HORI-ZUN%EF%BC%9A_English_Course_2%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="178" height="250" srcset="https://upload.thwiki.cc/thumb/2/2f/NEW_HORI-ZUN%EF%BC%9A_English_Course_2%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/402px-NEW_HORI-ZUN%EF%BC%9A_English_Course_2%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/2/2f/NEW_HORI-ZUN%EF%BC%9A_English_Course_2%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 2x" data-file-width="411" data-file-height="576"> 
 
 
 ## Staff
 
 ## 评论
-
-
-
 
 ---
 

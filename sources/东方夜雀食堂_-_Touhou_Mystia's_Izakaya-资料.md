@@ -1,11 +1,11 @@
 # 东方夜雀食堂_-_Touhou_Mystia's_Izakaya/资料
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2e\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82_-_Touhou_Mystia%27s_Izakaya%2F%E8%B5%84%E6%96%99.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2e\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82_-_Touhou_Mystia%27s_Izakaya%2F%E8%B5%84%E6%96%99.html -->
 
 Re零同人社 | 二色幽紫蝶
 
-- 本页词条是对东方二次同人游戏《 **[东方夜雀食堂 - Touhou Mystia's Izakaya](./东方夜雀食堂_-_Touhou_Mystia's_Izakaya.md)** 》的补充攻略  
 
+- 本页词条是对东方二次同人游戏《**[东方夜雀食堂 - Touhou Mystia's Izakaya](./东方夜雀食堂_-_Touhou_Mystia's_Izakaya.md)**》的补充攻略
 
 
 ## 料理Tag反查
@@ -389,10 +389,6 @@ Re零同人社 | 二色幽紫蝶
 <td>博丽灵梦、露米娅、红美铃、因幡帝、森近霖之助、橙、上白泽慧音、稗田阿求、伊吹萃香、蓬莱山辉夜、雾雨魔理沙</td>
 <td>
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

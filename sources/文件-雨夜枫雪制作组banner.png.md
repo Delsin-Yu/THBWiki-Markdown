@@ -1,12 +1,8 @@
 # 文件:雨夜枫雪制作组banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E9%9B%A8%E5%A4%9C%E6%9E%AB%E9%9B%AA%E5%88%B6%E4%BD%9C%E7%BB%84banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E9%9B%A8%E5%A4%9C%E6%9E%AB%E9%9B%AA%E5%88%B6%E4%BD%9C%E7%BB%84banner%2Epng.html -->
 
 社团LOGO | 雨夜枫雪制作组
-
-
-
-
 
 
 ---

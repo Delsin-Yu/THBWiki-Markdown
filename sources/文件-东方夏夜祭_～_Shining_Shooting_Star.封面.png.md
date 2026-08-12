@@ -1,6 +1,6 @@
 # 文件:东方夏夜祭_～_Shining_Shooting_Star.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E4%B8%9C%E6%96%B9%E5%A4%8F%E5%A4%9C%E7%A5%AD_%EF%BD%9E_Shining_Shooting_Star%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E4%B8%9C%E6%96%B9%E5%A4%8F%E5%A4%9C%E7%A5%AD_%EF%BD%9E_Shining_Shooting_Star%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 封面图片 | 软件封面 | 雨夜枫雪制作组
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方夏夜祭 ～ Shining Shooting Star.](./东方夏夜祭_～_Shining_Shooting_Star..md)  
-该封面包含的角色：- [梦璃夜天星](./梦璃夜天星.md)
-
-
-
+- [东方夏夜祭 ～ Shining Shooting Star.](./东方夏夜祭_～_Shining_Shooting_Star..md)该封面包含的角色：
+- [梦璃夜天星](./梦璃夜天星.md)
 
 
 ---

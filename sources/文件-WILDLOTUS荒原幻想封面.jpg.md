@@ -1,6 +1,6 @@
 # 文件:WILDLOTUS荒原幻想封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AWILDLOTUS%E8%8D%92%E5%8E%9F%E5%B9%BB%E6%83%B3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AWILDLOTUS%E8%8D%92%E5%8E%9F%E5%B9%BB%E6%83%B3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 lab_ibl | 封面图片 | 软件封面
 
@@ -11,9 +11,6 @@ lab_ibl | 封面图片 | 软件封面
   
 
 - [WILDLOTUS荒原幻想](./WILDLOTUS荒原幻想.md)
-
-
-
 
 
 ---

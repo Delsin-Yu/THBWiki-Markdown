@@ -1,12 +1,8 @@
 # 文件:洗熊公社logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E6%B4%97%E7%86%8A%E5%85%AC%E7%A4%BElogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E6%B4%97%E7%86%8A%E5%85%AC%E7%A4%BElogo%2Ejpg.html -->
 
 洗熊公社 | 社团LOGO
-
-
-
-
 
 
 ---

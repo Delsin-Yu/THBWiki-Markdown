@@ -1,12 +1,8 @@
 # 文件:星恋符「Sprinkle_Star_&_Heart」4（凭依华）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E6%98%9F%E6%81%8B%E7%AC%A6%E3%80%8CSprinkle_Star_%26_Heart%E3%80%8D4%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E6%98%9F%E6%81%8B%E7%AC%A6%E3%80%8CSprinkle_Star_%26_Heart%E3%80%8D4%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
 
 东方凭依华 | 古明地恋 | 敌机符卡 | 雾雨魔理沙
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:magical_star_collection_01封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3Amagical_star_collection_01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3Amagical_star_collection_01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 flap+frog | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ flap+frog | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [magical star collection 01](./magical_star_collection_01.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [magical star collection 01](./magical_star_collection_01.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

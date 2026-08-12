@@ -1,6 +1,6 @@
 # 文件:3rd_Anniversary封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A3rd_Anniversary%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A3rd_Anniversary%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 bunny_rhyTHm | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ bunny_rhyTHm | 专辑封面 | 封面图片
   
 
 - [3rd Anniversary](./3rd_Anniversary.md)
-
-
-
 
 
 ---

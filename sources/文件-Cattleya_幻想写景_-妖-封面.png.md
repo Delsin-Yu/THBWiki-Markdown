@@ -1,6 +1,6 @@
 # 文件:Cattleya_幻想写景_-妖-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3ACattleya_%E5%B9%BB%E6%83%B3%E5%86%99%E6%99%AF_-%E5%A6%96-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3ACattleya_%E5%B9%BB%E6%83%B3%E5%86%99%E6%99%AF_-%E5%A6%96-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Foxtail-Grass_Studio | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Foxtail-Grass_Studio | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Cattleya 幻想写景 -妖-](./Cattleya_幻想写景_-妖-.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [Cattleya 幻想写景 -妖-](./Cattleya_幻想写景_-妖-.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:GENSOU_HARDSOUND＃002封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AGENSOU_HARDSOUND%EF%BC%83002%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AGENSOU_HARDSOUND%EF%BC%83002%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 KINZOK_ON | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ KINZOK_ON | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [GENSOU HARDSOUND＃002](./GENSOU_HARDSOUND＃002.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [GENSOU HARDSOUND＃002](./GENSOU_HARDSOUND＃002.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

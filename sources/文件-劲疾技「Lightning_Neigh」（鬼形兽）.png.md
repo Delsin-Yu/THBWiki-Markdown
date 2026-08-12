@@ -1,16 +1,13 @@
 # 文件:劲疾技「Lightning_Neigh」（鬼形兽）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E5%8A%B2%E7%96%BE%E6%8A%80%E3%80%8CLightning_Neigh%E3%80%8D%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E5%8A%B2%E7%96%BE%E6%8A%80%E3%80%8CLightning_Neigh%E3%80%8D%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%EF%BC%89%2Epng.html -->
 
 东方鬼形兽 | 敌机符卡 | 骊驹早鬼
 
 
-## 文件说明  
+## 文件说明
+  
 ,,  
-
-
-
-
 
 ---
 

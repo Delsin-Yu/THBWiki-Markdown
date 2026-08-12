@@ -1,6 +1,6 @@
 # 文件:東方悠心響_～Trade_for_Heartiness～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E6%9D%B1%E6%96%B9%E6%82%A0%E5%BF%83%E9%9F%BF_%EF%BD%9ETrade_for_Heartiness%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E6%9D%B1%E6%96%B9%E6%82%A0%E5%BF%83%E9%9F%BF_%EF%BD%9ETrade_for_Heartiness%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 R-note | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ R-note | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方悠心響 ～Trade for Heartiness～](./東方悠心響_～Trade_for_Heartiness～.md)  
-该封面包含的角色：- [秦心](./秦心.md)
-
-
-
+- [東方悠心響 ～Trade for Heartiness～](./東方悠心響_～Trade_for_Heartiness～.md)该封面包含的角色：
+- [秦心](./秦心.md)
 
 
 ---

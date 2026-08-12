@@ -1,6 +1,6 @@
 # 文件:Overture｜KANA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AOverture%EF%BD%9CKANA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AOverture%EF%BD%9CKANA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ALiCE'S_EMOTiON | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ ALiCE'S_EMOTiON | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Overture｜KANA](./Overture｜KANA.md)  
-该封面包含的角色：- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [Overture｜KANA](./Overture｜KANA.md)该封面包含的角色：
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

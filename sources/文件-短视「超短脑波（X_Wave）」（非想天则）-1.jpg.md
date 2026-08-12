@@ -1,12 +1,8 @@
 # 文件:短视「超短脑波（X_Wave）」（非想天则）-1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E7%9F%AD%E8%A7%86%E3%80%8C%E8%B6%85%E7%9F%AD%E8%84%91%E6%B3%A2%EF%BC%88X_Wave%EF%BC%89%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89-1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E7%9F%AD%E8%A7%86%E3%80%8C%E8%B6%85%E7%9F%AD%E8%84%91%E6%B3%A2%EF%BC%88X_Wave%EF%BC%89%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89-1%2Ejpg.html -->
 
 东方非想天则 | 自机符卡 | 铃仙·优昙华院·因幡
-
-
-
-
 
 
 ---

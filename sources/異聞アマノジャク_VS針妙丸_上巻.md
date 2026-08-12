@@ -1,33 +1,28 @@
 # 異聞アマノジャク_VS針妙丸_上巻
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\69\ns0%3A%E7%95%B0%E8%81%9E%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%B8%E3%83%A3%E3%82%AF_VS%E9%87%9D%E5%A6%99%E4%B8%B8_%E4%B8%8A%E5%B7%BB.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\69\ns0%3A%E7%95%B0%E8%81%9E%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%B8%E3%83%A3%E3%82%AF_VS%E9%87%9D%E5%A6%99%E4%B8%B8_%E4%B8%8A%E5%B7%BB.html -->
 
 2015年8月14日 由 有機化合物 于 Comic Market 88 发布的漫画同人志，B5尺寸一共52页，登场人物有 鬼人正邪、少名针妙丸、博丽灵梦、伊吹萃香，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-異聞アマノジャク_VS針妙丸_上巻封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/48/%E7%95%B0%E8%81%9E%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%B8%E3%83%A3%E3%82%AF_VS%E9%87%9D%E5%A6%99%E4%B8%B8_%E4%B8%8A%E5%B7%BB%E5%B0%81%E9%9D%A2.jpg/160px-%E7%95%B0%E8%81%9E%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%B8%E3%83%A3%E3%82%AF_VS%E9%87%9D%E5%A6%99%E4%B8%B8_%E4%B8%8A%E5%B7%BB%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/4/48/%E7%95%B0%E8%81%9E%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%B8%E3%83%A3%E3%82%AF_VS%E9%87%9D%E5%A6%99%E4%B8%B8_%E4%B8%8A%E5%B7%BB%E5%B0%81%E9%9D%A2.jpg/240px-%E7%95%B0%E8%81%9E%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%B8%E3%83%A3%E3%82%AF_VS%E9%87%9D%E5%A6%99%E4%B8%B8_%E4%B8%8A%E5%B7%BB%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/48/%E7%95%B0%E8%81%9E%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%B8%E3%83%A3%E3%82%AF_VS%E9%87%9D%E5%A6%99%E4%B8%B8_%E4%B8%8A%E5%B7%BB%E5%B0%81%E9%9D%A2.jpg/320px-%E7%95%B0%E8%81%9E%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%B8%E3%83%A3%E3%82%AF_VS%E9%87%9D%E5%A6%99%E4%B8%B8_%E4%B8%8A%E5%B7%BB%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1119"></a><div class="cover-char">角色：<a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a>，<a href="./少名针妙丸.md" title="少名针妙丸">少名针妙丸</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> 異聞アマノジャク VS針妙丸 上巻 </td></tr><tr><td class="label">制作方</td><td><a href="./有機化合物.md" title="有機化合物">有機化合物</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-異聞アマノジャク_VS針妙丸_上巻封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/48/%E7%95%B0%E8%81%9E%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%B8%E3%83%A3%E3%82%AF_VS%E9%87%9D%E5%A6%99%E4%B8%B8_%E4%B8%8A%E5%B7%BB%E5%B0%81%E9%9D%A2.jpg/160px-%E7%95%B0%E8%81%9E%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%B8%E3%83%A3%E3%82%AF_VS%E9%87%9D%E5%A6%99%E4%B8%B8_%E4%B8%8A%E5%B7%BB%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/4/48/%E7%95%B0%E8%81%9E%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%B8%E3%83%A3%E3%82%AF_VS%E9%87%9D%E5%A6%99%E4%B8%B8_%E4%B8%8A%E5%B7%BB%E5%B0%81%E9%9D%A2.jpg/240px-%E7%95%B0%E8%81%9E%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%B8%E3%83%A3%E3%82%AF_VS%E9%87%9D%E5%A6%99%E4%B8%B8_%E4%B8%8A%E5%B7%BB%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/48/%E7%95%B0%E8%81%9E%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%B8%E3%83%A3%E3%82%AF_VS%E9%87%9D%E5%A6%99%E4%B8%B8_%E4%B8%8A%E5%B7%BB%E5%B0%81%E9%9D%A2.jpg/320px-%E7%95%B0%E8%81%9E%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%B8%E3%83%A3%E3%82%AF_VS%E9%87%9D%E5%A6%99%E4%B8%B8_%E4%B8%8A%E5%B7%BB%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1119"></a><div class="cover-char">角色：<a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a>，<a href="./少名针妙丸.md" title="少名针妙丸">少名针妙丸</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2015-08-14&#160;（<a href="/展会作品列表?e=Comic+Market%2388">Comic Market 88</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>52P</td></tr><tr><td class="label">登场人物</td><td><a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a>，<a href="./少名针妙丸.md" title="少名针妙丸">少名针妙丸</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></td></tr><tr><td class="label">售价</td><td>会场售价：600日元<br>通贩售价：740日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2015-08-14 （<a href="./展会作品列表.md#88">Comic Market 88</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>52P</td></tr><tr><td class="label">登场人物</td><td><a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a>，<a href="./少名针妙丸.md" title="少名针妙丸">少名针妙丸</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></td></tr><tr><td class="label">售价</td><td>会场售价：600日元<br>通贩售价：740日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://yuuki.kagou.main.jp/?eid=51">http://yuuki.kagou.main.jp/?eid=51</a></td></tr></tbody></table>
 
 異聞アマノジャク VS針妙丸 上巻（同人志，有機化合物，2015） - 2015年8月14日 由 有機化合物 于 Comic Market 88 发布的漫画同人志，B5尺寸一共52页，登场人物有 鬼人正邪、少名针妙丸、博丽灵梦、伊吹萃香，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=134173">蜜瓜</a></td></tr></tbody></table>
 
 
-
 ## Staff
+
 - [さとうユーキ](./さとうユーキ.md)
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:TKG
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\4c\ns10%3ATKG.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\4c\ns10%3ATKG.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

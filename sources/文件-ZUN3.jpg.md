@@ -1,12 +1,8 @@
 # 文件:ZUN3.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3AZUN3%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3AZUN3%2Ejpg.html -->
 
 Ki-san | TOKIAME绘 | ZUN
-
-
-
-
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:Unknown_-_Dimensionbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3AUnknown_-_Dimensionbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3AUnknown_-_Dimensionbanner%2Ejpg.html -->
 
 Unknown_-_Dimension | 社团LOGO
 
   
-源地址：[[1]](http://unknown-dimension.com/banner/ud_banner2012.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://unknown-dimension.com/banner/ud_banner2012.jpg)  
 
 ---
 

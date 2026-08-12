@@ -1,6 +1,6 @@
 # 文件:Sweet_Dreams（HEPTAD）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3ASweet_Dreams%EF%BC%88HEPTAD%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3ASweet_Dreams%EF%BC%88HEPTAD%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 HEPTAD | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ HEPTAD | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Sweet Dreams（HEPTAD）](./Sweet_Dreams（HEPTAD）.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [Sweet Dreams（HEPTAD）](./Sweet_Dreams（HEPTAD）.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/CjYRc1XUYAEKQVK?format=png&amp;name=orig), [source tweet](https://twitter.com/uruchikome/status/735794777619202048)
-  
-
-
-
-
+源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/CjYRc1XUYAEKQVK?format=png&name=orig), [source tweet](https://twitter.com/uruchikome/status/735794777619202048)  
 
 ---
 

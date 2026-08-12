@@ -1,16 +1,12 @@
 # 模板:THDN
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\03\ns10%3ATHDN.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\03\ns10%3ATHDN.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:Saikoro_Club_Networkbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3ASaikoro_Club_Networkbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3ASaikoro_Club_Networkbanner%2Egif.html -->
 
 Saikoro_Club_Network | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

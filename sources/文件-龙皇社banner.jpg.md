@@ -1,12 +1,8 @@
 # 文件:龙皇社banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E9%BE%99%E7%9A%87%E7%A4%BEbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E9%BE%99%E7%9A%87%E7%A4%BEbanner%2Ejpg.html -->
 
 社团LOGO | 龙皇社
-
-
-
-
 
 
 ---

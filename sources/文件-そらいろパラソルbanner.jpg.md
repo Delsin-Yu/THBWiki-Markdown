@@ -1,14 +1,11 @@
 # 文件:そらいろパラソルbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E3%81%9D%E3%82%89%E3%81%84%E3%82%8D%E3%83%91%E3%83%A9%E3%82%BD%E3%83%ABbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E3%81%9D%E3%82%89%E3%81%84%E3%82%8D%E3%83%91%E3%83%A9%E3%82%BD%E3%83%ABbanner%2Ejpg.html -->
 
 そらいろパラソル | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

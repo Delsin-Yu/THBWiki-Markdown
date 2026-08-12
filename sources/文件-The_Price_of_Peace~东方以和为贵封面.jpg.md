@@ -1,6 +1,6 @@
 # 文件:The_Price_of_Peace~东方以和为贵封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3AThe_Price_of_Peace%7E%E4%B8%9C%E6%96%B9%E4%BB%A5%E5%92%8C%E4%B8%BA%E8%B4%B5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3AThe_Price_of_Peace%7E%E4%B8%9C%E6%96%B9%E4%BB%A5%E5%92%8C%E4%B8%BA%E8%B4%B5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dia_Schisma | 专辑封面 | 封面图片
 
@@ -10,16 +10,18 @@ Dia_Schisma | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The Price of Peace~东方以和为贵](./The_Price_of_Peace~东方以和为贵.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [风见幽香](./风见幽香.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)- [比那名居天子](./比那名居天子.md)- [古明地觉](./古明地觉.md)- [火焰猫燐](./火焰猫燐.md)
+- [The Price of Peace~东方以和为贵](./The_Price_of_Peace~东方以和为贵.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [风见幽香](./风见幽香.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [比那名居天子](./比那名居天子.md)
+- [古明地觉](./古明地觉.md)
+- [火焰猫燐](./火焰猫燐.md)
 
   
-源地址：[direct image link (max size)](http://p2.music.126.net/LFmtva4jB9aBn5IGMYR3yw==/109951164959629607.jpg), [source page](https://music.163.com/#/album?id=88904892)
-  
-
-
-
-
+源地址：[direct image link (max size)](http://p2.music.126.net/LFmtva4jB9aBn5IGMYR3yw==/109951164959629607.jpg), [source page](https://music.163.com/#/album?id=88904892)  
 
 ---
 

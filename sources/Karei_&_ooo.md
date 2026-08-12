@@ -1,11 +1,10 @@
 # Karei_&_ooo
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1a\ns0%3AKarei_%26_ooo.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1a\ns0%3AKarei_%26_ooo.html -->
 
 Karei & ooo ，于 2015 年成立，主要制作 同人音乐 的台湾同人社团，主催是 Ｇ，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -14,17 +13,14 @@ Karei & ooo ，于 2015 年成立，主要制作 同人音乐 的台湾同人社
 - [4 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-Karei_banner.jpg.md)  [](./文件-Karei_banner.jpg.md)Karei_banner
+<img alt="" src="https://upload.thwiki.cc/thumb/d/d5/Karei_banner.jpg/300px-Karei_banner.jpg" decoding="async" loading="lazy" width="300" height="300" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/d/d5/Karei_banner.jpg/450px-Karei_banner.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d5/Karei_banner.jpg/600px-Karei_banner.jpg 2x" data-file-width="640" data-file-height="640">
+ [放大](./文件-Karei_banner.jpg.md)Karei_banner
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Karei & ooo </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2015</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="Ｇ（页面不存在）">Ｇ</a> </td></tr><tr><td><b>地区</b></td><td>台湾</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://www.facebook.com/KareiACGTaiwan/">https://www.facebook.com/KareiACGTaiwan/</a> </td></tr></tbody></table>
 
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Karei &#38; ooo </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2015</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%EF%BC%A7&amp;action=edit&amp;redlink=1" class="new" title="Ｇ（页面不存在）">Ｇ</a> </td></tr><tr><td><b>地区</b></td><td>台湾</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://www.facebook.com/KareiACGTaiwan/">https://www.facebook.com/KareiACGTaiwan/</a> </td></tr></tbody></table>
-
-Karei &amp; ooo（同人社团，同人音乐社团） - Karei &amp; ooo ，于 2015 年成立，主要制作 同人音乐 的台湾同人社团，主催是 Ｇ，当前状态为 活动
-
+Karei & ooo（同人社团，同人音乐社团） - Karei & ooo ，于 2015 年成立，主要制作 同人音乐 的台湾同人社团，主催是 Ｇ，当前状态为 活动
 ## 成员名单
+
 - Ｇ (未找到链接)：Organizer / Director
 - Karei (未找到链接)：Vocal
 
@@ -32,9 +28,6 @@ Karei &amp; ooo（同人社团，同人音乐社团） - Karei &amp; ooo ，于 
 ## 作品列表
 
 ## 其他信息
-
-
-
 
 ---
 

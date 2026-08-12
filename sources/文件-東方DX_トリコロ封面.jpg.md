@@ -1,6 +1,6 @@
 # 文件:東方DX_トリコロ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E6%9D%B1%E6%96%B9DX_%E3%83%88%E3%83%AA%E3%82%B3%E3%83%AD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E6%9D%B1%E6%96%B9DX_%E3%83%88%E3%83%AA%E3%82%B3%E3%83%AD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Rico_Rico_Alice | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Rico_Rico_Alice | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方DX トリコロ](./東方DX_トリコロ.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [東方DX トリコロ](./東方DX_トリコロ.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
   
-源地址：[[1]](http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=53243171)
-  
-
-
-
-
+源地址：[\[1\]](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=53243171)  
 
 ---
 

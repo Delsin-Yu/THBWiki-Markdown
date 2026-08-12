@@ -1,6 +1,6 @@
 # 文件:レトロスペック東方II_～懐かしのFC音源アレンジ集～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E3%83%AC%E3%83%88%E3%83%AD%E3%82%B9%E3%83%9A%E3%83%83%E3%82%AF%E6%9D%B1%E6%96%B9II_%EF%BD%9E%E6%87%90%E3%81%8B%E3%81%97%E3%81%AEFC%E9%9F%B3%E6%BA%90%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E9%9B%86%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E3%83%AC%E3%83%88%E3%83%AD%E3%82%B9%E3%83%9A%E3%83%83%E3%82%AF%E6%9D%B1%E6%96%B9II_%EF%BD%9E%E6%87%90%E3%81%8B%E3%81%97%E3%81%AEFC%E9%9F%B3%E6%BA%90%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E9%9B%86%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 時風屋
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [レトロスペック東方II ～懐かしのFC音源アレンジ集～](./レトロスペック東方II_～懐かしのFC音源アレンジ集～.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [レトロスペック東方II ～懐かしのFC音源アレンジ集～](./レトロスペック東方II_～懐かしのFC音源アレンジ集～.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

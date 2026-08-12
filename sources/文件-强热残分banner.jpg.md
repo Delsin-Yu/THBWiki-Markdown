@@ -1,12 +1,8 @@
 # 文件:强热残分banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E5%BC%BA%E7%83%AD%E6%AE%8B%E5%88%86banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E5%BC%BA%E7%83%AD%E6%AE%8B%E5%88%86banner%2Ejpg.html -->
 
 强热残分 | 社团LOGO
-
-
-
-
 
 
 ---

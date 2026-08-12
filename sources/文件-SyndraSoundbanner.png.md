@@ -1,12 +1,8 @@
 # 文件:SyndraSoundbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3ASyndraSoundbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3ASyndraSoundbanner%2Epng.html -->
 
 SyndraSound | 社团LOGO
-
-
-
-
 
 
 ---

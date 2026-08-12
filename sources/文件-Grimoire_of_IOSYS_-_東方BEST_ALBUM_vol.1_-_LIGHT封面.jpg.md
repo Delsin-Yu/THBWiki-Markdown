@@ -1,6 +1,6 @@
 # 文件:Grimoire_of_IOSYS_-_東方BEST_ALBUM_vol.1_-_LIGHT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3AGrimoire_of_IOSYS_-_%E6%9D%B1%E6%96%B9BEST_ALBUM_vol%2E1_-_LIGHT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3AGrimoire_of_IOSYS_-_%E6%9D%B1%E6%96%B9BEST_ALBUM_vol%2E1_-_LIGHT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IOSYS | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ IOSYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Grimoire of IOSYS - 東方BEST ALBUM vol.1 - LIGHT](./Grimoire_of_IOSYS_-_東方BEST_ALBUM_vol.1_-_LIGHT.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Grimoire of IOSYS - 東方BEST ALBUM vol.1 - LIGHT](./Grimoire_of_IOSYS_-_東方BEST_ALBUM_vol.1_-_LIGHT.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](http://www.iosysos.com/cd/tohobest1L/image/tohobest1L.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.iosysos.com/cd/tohobest1L/image/tohobest1L.jpg)  
 
 ---
 

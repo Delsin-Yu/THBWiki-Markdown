@@ -1,6 +1,6 @@
 # 文件:SUPER_SUN_SMILE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3ASUPER_SUN_SMILE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3ASUPER_SUN_SMILE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 サルネスコ | 同人志封面 | 封面图片
 
@@ -10,16 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [SUPER SUN SMILE](./SUPER_SUN_SMILE.md)  
-该封面包含的角色：- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)
+- [SUPER SUN SMILE](./SUPER_SUN_SMILE.md)该封面包含的角色：
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
 
   
-[Pixiv artwork ID: 56671565 (original size)](https://www.pixiv.net/artworks/56671565)
-  
-
-
-
-
+[Pixiv artwork ID: 56671565 (original size)](https://www.pixiv.net/artworks/56671565)  
 
 ---
 

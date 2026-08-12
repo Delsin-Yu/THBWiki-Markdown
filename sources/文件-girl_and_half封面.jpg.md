@@ -1,6 +1,6 @@
 # 文件:girl_and_half封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3Agirl_and_half%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3Agirl_and_half%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NeuzKraft | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ NeuzKraft | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [girl and half](./girl_and_half.md)  
-该封面包含的角色：- [八云蓝](./八云蓝.md)
-
-
-
+- [girl and half](./girl_and_half.md)该封面包含的角色：
+- [八云蓝](./八云蓝.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:ヴァーミリオンに花束_Fleurs_pour_Vermilion封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3%E3%81%AB%E8%8A%B1%E6%9D%9F_Fleurs_pour_Vermilion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3%E3%81%AB%E8%8A%B1%E6%9D%9F_Fleurs_pour_Vermilion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Attrielectrock | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Attrielectrock | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ヴァーミリオンに花束 Fleurs pour Vermilion](./ヴァーミリオンに花束_Fleurs_pour_Vermilion.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [ヴァーミリオンに花束 Fleurs pour Vermilion](./ヴァーミリオンに花束_Fleurs_pour_Vermilion.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

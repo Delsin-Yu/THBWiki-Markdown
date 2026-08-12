@@ -1,6 +1,6 @@
 # 文件:Dos_Fuerzas,_Un_Solo_Futuro～_ふたつの力、ひとつの明日封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3ADos_Fuerzas%2C_Un_Solo_Futuro%EF%BD%9E_%E3%81%B5%E3%81%9F%E3%81%A4%E3%81%AE%E5%8A%9B%E3%80%81%E3%81%B2%E3%81%A8%E3%81%A4%E3%81%AE%E6%98%8E%E6%97%A5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3ADos_Fuerzas%2C_Un_Solo_Futuro%EF%BD%9E_%E3%81%B5%E3%81%9F%E3%81%A4%E3%81%AE%E5%8A%9B%E3%80%81%E3%81%B2%E3%81%A8%E3%81%A4%E3%81%AE%E6%98%8E%E6%97%A5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ジャージと愉快な仲間たち | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Dos Fuerzas, Un Solo Futuro～ ふたつの力、ひとつの明日](./Dos_Fuerzas,_Un_Solo_Futuro～_ふたつの力、ひとつの明日.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)
-
-
-
+- [Dos Fuerzas, Un Solo Futuro～ ふたつの力、ひとつの明日](./Dos_Fuerzas,_Un_Solo_Futuro～_ふたつの力、ひとつの明日.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
 
 
 ---

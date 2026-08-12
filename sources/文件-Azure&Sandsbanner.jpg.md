@@ -1,12 +1,8 @@
 # 文件:Azure&Sandsbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3AAzure%26Sandsbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3AAzure%26Sandsbanner%2Ejpg.html -->
 
 Azure&Sands | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Night_in_Vapor_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3ANight_in_Vapor_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3ANight_in_Vapor_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ごんばこんなか | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@
 - [Night in Vapor EP](./Night_in_Vapor_EP.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a1517863749_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a1517863749_10.jpg)  
 
 ---
 

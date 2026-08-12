@@ -1,6 +1,6 @@
 # 文件:あうんどばいみーピアノボーカルVer.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E3%81%82%E3%81%86%E3%82%93%E3%81%A9%E3%81%B0%E3%81%84%E3%81%BF%E3%83%BC%E3%83%94%E3%82%A2%E3%83%8E%E3%83%9C%E3%83%BC%E3%82%AB%E3%83%ABVer%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E3%81%82%E3%81%86%E3%82%93%E3%81%A9%E3%81%B0%E3%81%84%E3%81%BF%E3%83%BC%E3%83%94%E3%82%A2%E3%83%8E%E3%83%9C%E3%83%BC%E3%82%AB%E3%83%ABVer%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 森羅万象
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [あうんどばいみーピアノボーカルVer.](./あうんどばいみーピアノボーカルVer..md)  
-该封面包含的角色：- [高丽野阿吽](./高丽野阿吽.md)
-
-
-
+- [あうんどばいみーピアノボーカルVer.](./あうんどばいみーピアノボーカルVer..md)该封面包含的角色：
+- [高丽野阿吽](./高丽野阿吽.md)
 
 
 ---

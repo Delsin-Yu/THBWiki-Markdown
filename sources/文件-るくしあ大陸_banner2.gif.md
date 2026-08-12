@@ -1,14 +1,11 @@
 # 文件:るくしあ大陸_banner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E3%82%8B%E3%81%8F%E3%81%97%E3%81%82%E5%A4%A7%E9%99%B8_banner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E3%82%8B%E3%81%8F%E3%81%97%E3%81%82%E5%A4%A7%E9%99%B8_banner2%2Egif.html -->
 
 るくしあ大陸 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

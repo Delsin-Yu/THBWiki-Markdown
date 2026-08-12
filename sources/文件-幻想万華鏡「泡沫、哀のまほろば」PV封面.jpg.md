@@ -1,6 +1,6 @@
 # 文件:幻想万華鏡「泡沫、哀のまほろば」PV封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3A%E5%B9%BB%E6%83%B3%E4%B8%87%E8%8F%AF%E9%8F%A1%E3%80%8C%E6%B3%A1%E6%B2%AB%E3%80%81%E5%93%80%E3%81%AE%E3%81%BE%E3%81%BB%E3%82%8D%E3%81%B0%E3%80%8DPV%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3A%E5%B9%BB%E6%83%B3%E4%B8%87%E8%8F%AF%E9%8F%A1%E3%80%8C%E6%B3%A1%E6%B2%AB%E3%80%81%E5%93%80%E3%81%AE%E3%81%BE%E3%81%BB%E3%82%8D%E3%81%B0%E3%80%8DPV%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 幽闭星光 | 満福神社 | 视频封面
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想万華鏡「泡沫、哀のまほろば」PV](./幻想万華鏡「泡沫、哀のまほろば」PV.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [八意永琳](./八意永琳.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [幻想万華鏡「泡沫、哀のまほろば」PV](./幻想万華鏡「泡沫、哀のまほろば」PV.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [八意永琳](./八意永琳.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

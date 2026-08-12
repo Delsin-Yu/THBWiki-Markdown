@@ -1,6 +1,6 @@
 # 文件:夢幻戯曲抄_～If.._you_hope～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E5%A4%A2%E5%B9%BB%E6%88%AF%E6%9B%B2%E6%8A%84_%EF%BD%9EIf%2E%2E_you_hope%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E5%A4%A2%E5%B9%BB%E6%88%AF%E6%9B%B2%E6%8A%84_%EF%BD%9EIf%2E%2E_you_hope%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 神像彫刻家
 
@@ -11,9 +11,6 @@
   
 
 - [夢幻戯曲抄 ～If.. you hope～](./夢幻戯曲抄_～If.._you_hope～.md)
-
-
-
 
 
 ---

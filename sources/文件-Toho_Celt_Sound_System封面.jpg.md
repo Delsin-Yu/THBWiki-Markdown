@@ -1,6 +1,6 @@
 # 文件:Toho_Celt_Sound_System封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AToho_Celt_Sound_System%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AToho_Celt_Sound_System%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 White_Falls | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ White_Falls | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Toho Celt Sound System](./Toho_Celt_Sound_System.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
-
-
-
+- [Toho Celt Sound System](./Toho_Celt_Sound_System.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
 
 ---

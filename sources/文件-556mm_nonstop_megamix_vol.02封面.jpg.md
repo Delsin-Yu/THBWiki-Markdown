@@ -1,6 +1,6 @@
 # 文件:556mm_nonstop_megamix_vol.02封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A556mm_nonstop_megamix_vol%2E02%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A556mm_nonstop_megamix_vol%2E02%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 556ミリメートル | Amateras_Records | 专辑封面 | 封面图片
 
@@ -8,16 +8,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [556mm nonstop megamix vol.02](./556mm_nonstop_megamix_vol.02.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [东风谷早苗](./东风谷早苗.md)
+- [556mm nonstop megamix vol.02](./556mm_nonstop_megamix_vol.02.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [东风谷早苗](./东风谷早苗.md)
 
   
-源地址：[[1]](http://blog-imgs-92-origin.fc2.com/5/5/6/556mm/MMCD-0017.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://blog-imgs-92-origin.fc2.com/5/5/6/556mm/MMCD-0017.jpg)  
 
 ---
 

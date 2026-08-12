@@ -1,6 +1,6 @@
 # 文件:Present_from_Hell封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3APresent_from_Hell%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3APresent_from_Hell%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Area-S | 同人志封面 | 封面图片
 
@@ -8,11 +8,13 @@ Area-S | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Present from Hell](./Present_from_Hell.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [纯狐](./纯狐.md)- [克劳恩皮丝](./克劳恩皮丝.md)- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)- [矢田寺成美](./矢田寺成美.md)
-
-
-
+- [Present from Hell](./Present_from_Hell.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [纯狐](./纯狐.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
+- [矢田寺成美](./矢田寺成美.md)
 
 
 ---

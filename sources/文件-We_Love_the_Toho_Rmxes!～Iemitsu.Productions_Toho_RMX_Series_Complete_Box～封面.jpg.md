@@ -1,6 +1,6 @@
 # 文件:We_Love_the_Toho_Rmxes!～Iemitsu.Productions_Toho_RMX_Series_Complete_Box～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AWe_Love_the_Toho_Rmxes%21%EF%BD%9EIemitsu%2EProductions_Toho_RMX_Series_Complete_Box%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AWe_Love_the_Toho_Rmxes%21%EF%BD%9EIemitsu%2EProductions_Toho_RMX_Series_Complete_Box%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Iemitsu. | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Iemitsu. | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [We Love the Toho Rmxes!～Iemitsu.Productions Toho RMX Series Complete Box～](./We_Love_the_Toho_Rmxes!～Iemitsu.Productions_Toho_RMX_Series_Complete_Box～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [We Love the Toho Rmxes!～Iemitsu.Productions Toho RMX Series Complete Box～](./We_Love_the_Toho_Rmxes!～Iemitsu.Productions_Toho_RMX_Series_Complete_Box～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:東方Project_アバターシリーズ（花映塚·文花帖·Double_Spoiler）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%C2%B7%E6%96%87%E8%8A%B1%E5%B8%96%C2%B7Double_Spoiler%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%C2%B7%E6%96%87%E8%8A%B1%E5%B8%96%C2%B7Double_Spoiler%EF%BC%89%2Ejpg.html -->
 
 Play,Doujin! | 東方Project_アバターシリーズ
-
-
-
-
 
 
 ---

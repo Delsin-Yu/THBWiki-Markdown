@@ -1,12 +1,8 @@
 # 文件:Toby对谈03.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AToby%E5%AF%B9%E8%B0%8803%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AToby%E5%AF%B9%E8%B0%8803%2Epng.html -->
 
 Toby对谈 | 东方永夜抄
-
-
-
-
 
 
 ---

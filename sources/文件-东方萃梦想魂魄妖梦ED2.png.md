@@ -1,12 +1,8 @@
 # 文件:东方萃梦想魂魄妖梦ED2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E4%B8%9C%E6%96%B9%E8%90%83%E6%A2%A6%E6%83%B3%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6ED2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E4%B8%9C%E6%96%B9%E8%90%83%E6%A2%A6%E6%83%B3%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6ED2%2Epng.html -->
 
 东方萃梦想结局图
-
-
-
-
 
 
 ---

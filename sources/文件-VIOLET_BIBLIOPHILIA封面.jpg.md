@@ -1,6 +1,6 @@
 # 文件:VIOLET_BIBLIOPHILIA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3AVIOLET_BIBLIOPHILIA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3AVIOLET_BIBLIOPHILIA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ろしあですまん | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [VIOLET BIBLIOPHILIA](./VIOLET_BIBLIOPHILIA.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [古明地觉](./古明地觉.md)
-
-
-
+- [VIOLET BIBLIOPHILIA](./VIOLET_BIBLIOPHILIA.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [古明地觉](./古明地觉.md)
 
 
 ---

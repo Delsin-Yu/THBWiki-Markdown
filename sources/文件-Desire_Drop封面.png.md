@@ -1,6 +1,6 @@
 # 文件:Desire_Drop封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3ADesire_Drop%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3ADesire_Drop%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Rolling_Contact | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Rolling_Contact | 专辑封面 | 封面图片
   
 
 - [Desire Drop](./Desire_Drop.md)
-
-
-
 
 
 ---

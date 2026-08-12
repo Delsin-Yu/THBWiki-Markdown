@@ -1,14 +1,11 @@
 # 文件:-Sakimiya-banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A-Sakimiya-banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A-Sakimiya-banner%2Egif.html -->
 
 -Sakimiya- | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

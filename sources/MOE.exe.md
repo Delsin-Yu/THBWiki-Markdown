@@ -1,31 +1,27 @@
 # MOE.exe
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ae\ns0%3AMOE%2Eexe.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ae\ns0%3AMOE%2Eexe.html -->
 
 2022年5月8日 由 ふたばなみ缶 于 博丽神社例大祭19 发布的画集同人志，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=MOE.exe%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:MOE.exe封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./键山雏.md" title="键山雏">键山雏</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> MOE.exe </td></tr><tr><td class="label">制作方</td><td><a href="./ふたばなみ缶.md" title="ふたばなみ缶">ふたばなみ缶</a></td><td class="cover-artwork" rowspan="5" style="min-width:140px;"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=MOE.exe%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:MOE.exe封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./键山雏.md" title="键山雏">键山雏</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2022-05-08&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2319">第十九回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">售价</td><td>会场售价：800日元</td></tr>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a class="new" title="文件:MOE.exe封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./键山雏.md" title="键山雏">键山雏</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> MOE.exe </td></tr><tr><td class="label">制作方</td><td><a href="./ふたばなみ缶.md" title="ふたばなみ缶">ふたばなみ缶</a></td><td class="cover-artwork" rowspan="5" style="min-width:140px;"><a class="new" title="文件:MOE.exe封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./键山雏.md" title="键山雏">键山雏</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2022-05-08 （<a href="./展会作品列表.md#19">第十九回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">售价</td><td>会场售价：800日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/myan3891/status/1518601073552130049">https://twitter.com/myan3891/status/1518601073552130049</a></td></tr></tbody></table>
 
 MOE.exe（同人志，ふたばなみ缶，2022） - 2022年5月8日 由 ふたばなみ缶 于 博丽神社例大祭19 发布的画集同人志，分级为 一般向
-
 ## 预览
 
 ## Staff
+
 - みゃんた楼 (未找到链接)
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:三面道中BOSS（黄昏酒场立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E4%B8%89%E9%9D%A2%E9%81%93%E4%B8%ADBOSS%EF%BC%88%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BA%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E4%B8%89%E9%9D%A2%E9%81%93%E4%B8%ADBOSS%EF%BC%88%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BA%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 黄昏酒场
-
-
-
-
 
 
 ---

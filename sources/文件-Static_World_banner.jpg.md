@@ -1,12 +1,8 @@
 # 文件:Static_World_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3AStatic_World_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3AStatic_World_banner%2Ejpg.html -->
 
 Static_World | 社团LOGO
-
-
-
-
 
 
 ---

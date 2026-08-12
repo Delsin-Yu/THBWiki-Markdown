@@ -1,6 +1,6 @@
 # 文件:Instrumental_Collection_Vol._4封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3AInstrumental_Collection_Vol%2E_4%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3AInstrumental_Collection_Vol%2E_4%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Frozen_Starfall | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Frozen_Starfall | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Instrumental Collection Vol. 4](./Instrumental_Collection_Vol._4.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [埴安神袿姬](./埴安神袿姬.md)
-
-
-
+- [Instrumental Collection Vol. 4](./Instrumental_Collection_Vol._4.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [埴安神袿姬](./埴安神袿姬.md)
 
 
 ---

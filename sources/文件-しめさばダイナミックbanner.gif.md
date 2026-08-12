@@ -1,16 +1,11 @@
 # 文件:しめさばダイナミックbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3A%E3%81%97%E3%82%81%E3%81%95%E3%81%B0%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AFbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3A%E3%81%97%E3%82%81%E3%81%95%E3%81%B0%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AFbanner%2Egif.html -->
 
 しめさばダイナミック | 社团LOGO
 
   
-源地址：[[1]](http://www25.big.or.jp/~shiina/image/bana3.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://www25.big.or.jp/~shiina/image/bana3.gif)  
 
 ---
 

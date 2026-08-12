@@ -1,6 +1,6 @@
 # 文件:裏_BEST_OF_WiNG_YELLOW封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E8%A3%8F_BEST_OF_WiNG_YELLOW%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E8%A3%8F_BEST_OF_WiNG_YELLOW%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
   
 
 - [裏 BEST OF WiNG YELLOW](./裏_BEST_OF_WiNG_YELLOW.md)
-
-
-
 
 
 ---

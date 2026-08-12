@@ -1,6 +1,6 @@
 # 文件:KALEIDOSCAPE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3AKALEIDOSCAPE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3AKALEIDOSCAPE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ego☆trip | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ ego☆trip | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [KALEIDOSCAPE](./KALEIDOSCAPE.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [KALEIDOSCAPE](./KALEIDOSCAPE.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

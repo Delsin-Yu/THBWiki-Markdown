@@ -1,16 +1,12 @@
 # 文件:墨斯卡林之翼logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E5%A2%A8%E6%96%AF%E5%8D%A1%E6%9E%97%E4%B9%8B%E7%BF%BClogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E5%A2%A8%E6%96%AF%E5%8D%A1%E6%9E%97%E4%B9%8B%E7%BF%BClogo%2Ejpg.html -->
 
 墨斯卡林之翼 | 社团LOGO
 
   
 社团墨斯卡林之翼的logo
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:COOL_JAZZ_TOHO_II封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3ACOOL_JAZZ_TOHO_II%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3ACOOL_JAZZ_TOHO_II%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SWING_HOLIC | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ SWING_HOLIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [COOL JAZZ TOHO II](./COOL_JAZZ_TOHO_II.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
+- [COOL JAZZ TOHO II](./COOL_JAZZ_TOHO_II.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
   
-源地址：[[1]](https://buydoujin.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/1/0/1003_1.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://buydoujin.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/1/0/1003_1.jpg)  
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:STTR
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\e5\ns10%3ASTTR.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\e5\ns10%3ASTTR.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

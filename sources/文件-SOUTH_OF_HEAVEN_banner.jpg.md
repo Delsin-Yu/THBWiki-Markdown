@@ -1,12 +1,8 @@
 # 文件:SOUTH_OF_HEAVEN_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3ASOUTH_OF_HEAVEN_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3ASOUTH_OF_HEAVEN_banner%2Ejpg.html -->
 
 SOUTH_OF_HEAVEN | 社团LOGO
-
-
-
-
 
 
 ---

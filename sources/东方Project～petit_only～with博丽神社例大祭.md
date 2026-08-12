@@ -1,11 +1,10 @@
 # 东方Project～petit_only～with博丽神社例大祭
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\ff\ns0%3A%E4%B8%9C%E6%96%B9Project%EF%BD%9Epetit_only%EF%BD%9Ewith%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\ff\ns0%3A%E4%B8%9C%E6%96%B9Project%EF%BD%9Epetit_only%EF%BD%9Ewith%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD.html -->
 
 東方Project～petit only～with博麗神社例大祭 在 中国香港、台北 举办的  东方同人展会活动，目前共举办了2届
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,81 +13,59 @@
 </tr>
 </tbody></table>
 
-
-</center>
-本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
-及 **[相关活动](./相关活动.md)** 的词条
-
+</center>本页是关于**[同人展会](./活动.md#展会类活动)**  
+及**[相关活动](./活动.md)**的词条
 ## 目录
 
 - [1 概述](#概述)
 - [2 历届信息](#历届信息)
 - [3 历届宣传图](#历届宣传图)
-
   - [3.1 台湾](#台湾)
-
 
 
 - [4 注释](#注释)
 
 
-
-
-
 ## 概述
-[](./文件-博丽神社例大祭LOGO.png.md)  [](./文件-博丽神社例大祭LOGO.png.md)东方Project～petit only～with博丽神社例大祭 LOGO
+<img alt="" src="https://upload.thwiki.cc/thumb/6/6b/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%ADLOGO.png/300px-%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%ADLOGO.png" decoding="async" loading="lazy" width="300" height="65" class="thumbimage" srcset="https://upload.thwiki.cc/6/6b/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%ADLOGO.png 1.5x" data-file-width="308" data-file-height="67">
+ [放大](./文件-博丽神社例大祭LOGO.png.md)东方Project～petit only～with博丽神社例大祭 LOGO  
+<big>**东方Project～petit only～with博丽神社例大祭**</big>（東方Project～petit only～with博麗神社例大祭，とうほうProject～petit only～withはくれいじんじゃれいたいさい）。  
   
-<big> **东方Project～petit only～with博丽神社例大祭** </big>（東方Project～petit only～with博麗神社例大祭，とうほうProject～petit only～withはくれいじんじゃれいたいさい）。  
-  
-  
-  
-  
-中国 **香港、台北** 的 **[场内Only](./场内限定展会.md#场内Only展会)** 东方Project Only **同人[展会类活动](./展会类活动.md#展会类活动)** 。  
+中国**香港、台北**的**[场内Only](./活动.md#场内Only展会)**东方Project Only**同人[展会类活动](./活动.md#展会类活动)**。  
   
 在香港、台北举办。  
   
   
 此活动在2016年至2017年间共举办了2届，之后未再举办。  
   
-博丽神社例大祭的海外周游系列追加展会，从2016年开始。其本体主展会是上半年举办的 **[博丽神社例大祭](./博丽神社例大祭.md)** 。  
+博丽神社例大祭的海外周游系列追加展会，从2016年开始。其本体主展会是上半年举办的**[博丽神社例大祭](./博丽神社例大祭.md)**。  
 
 目前在日本海外举行，为期一天。  
   
-  
-  
-  
 活动官方网站： [http://reitaisai.com/](http://reitaisai.com/)   
-主办方： **博丽神社社务所 (未找到链接)**   
+主办方：**[博丽神社社务所](./博丽神社例大祭.md#博丽神社社务所)**  
 官方推特： [https://twitter.com/HakureijinjyaS](https://twitter.com/HakureijinjyaS) （需要翻墙）  
   
 东方Project～petit only～with博丽神社例大祭（活动，展会活动） - 東方Project～petit only～with博麗神社例大祭 在 中国香港、台北 举办的  东方同人展会活动，目前共举办了2届
-
 ## 历届信息
+
 - 点击届数可进入对应分类页面
 - 摊位数统计可能不准确，请注意
 
 
 <table>
-<tbody><tr><th> </th><th>日期</th><th>地点</th><th>摊位数</th></tr><tr><td id="1"><b><a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9Project%EF%BD%9Epetit+only%EF%BD%9Ewith%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%231">东方Project～petit only～with博丽神社例大祭</a></b><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td><td id="ev-1">2016年02月21日</td><td>台湾台北市台湾大学体育馆1楼</td><td>-</td></tr><tr><td id="in香港"><b><a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9Project%EF%BD%9Epetit+only%EF%BD%9Ewith%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%23in%E9%A6%99%E6%B8%AF">东方Project～petit only～with博丽神社例大祭in香港</a></b><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></td><td id="ev-2">2017年07月29日</td><td>香港湾仔区港湾道26号 香港会议展览中心Hall 3</td><td></td></tr>
+<tbody><tr><th> </th><th>日期</th><th>地点</th><th>摊位数</th></tr><tr><td id="1"><b><a href="./展会作品列表.md#1">东方Project～petit only～with博丽神社例大祭</a></b><span>[^cite_note-1]</span></td><td id="ev-1">2016年02月21日</td><td>台湾台北市台湾大学体育馆1楼</td><td>-</td></tr><tr><td id="in香港"><b><a href="./展会作品列表.md#in香港">东方Project～petit only～with博丽神社例大祭in香港</a></b><span>[^cite_note-2]</span></td><td id="ev-2">2017年07月29日</td><td>香港湾仔区港湾道26号 香港会议展览中心Hall 3</td><td></td></tr>
 </tbody></table>
-
 
 
 ## 历届宣传图
 
 ### 台湾
-- [](./文件-例大祭in台湾1.5插画1.jpg.md)插画
 
+- <img alt="插画" src="https://upload.thwiki.cc/thumb/9/97/%E4%BE%8B%E5%A4%A7%E7%A5%ADin%E5%8F%B0%E6%B9%BE1.5%E6%8F%92%E7%94%BB1.jpg/268px-%E4%BE%8B%E5%A4%A7%E7%A5%ADin%E5%8F%B0%E6%B9%BE1.5%E6%8F%92%E7%94%BB1.jpg" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/9/97/%E4%BE%8B%E5%A4%A7%E7%A5%ADin%E5%8F%B0%E6%B9%BE1.5%E6%8F%92%E7%94%BB1.jpg/402px-%E4%BE%8B%E5%A4%A7%E7%A5%ADin%E5%8F%B0%E6%B9%BE1.5%E6%8F%92%E7%94%BB1.jpg 1.5x, https://upload.thwiki.cc/thumb/9/97/%E4%BE%8B%E5%A4%A7%E7%A5%ADin%E5%8F%B0%E6%B9%BE1.5%E6%8F%92%E7%94%BB1.jpg/536px-%E4%BE%8B%E5%A4%A7%E7%A5%ADin%E5%8F%B0%E6%B9%BE1.5%E6%8F%92%E7%94%BB1.jpg 2x" data-file-width="732" data-file-height="1024"> 插画
 
 [^cite_note-1]: 作为[Comic Horizon](./Comic_Horizon.md)的子展会举办。
-
-  
-  
-
-
-
-
-
+[^cite_note-2]: 原计划与[Creative Paradise](./Creative_Paradise.md)共同举办，后因商议失败而中止举办。
 
 ---
 

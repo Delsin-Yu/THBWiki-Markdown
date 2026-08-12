@@ -1,6 +1,6 @@
 # 文件:星尘幻想研究所banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3A%E6%98%9F%E5%B0%98%E5%B9%BB%E6%83%B3%E7%A0%94%E7%A9%B6%E6%89%80banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3A%E6%98%9F%E5%B0%98%E5%B9%BB%E6%83%B3%E7%A0%94%E7%A9%B6%E6%89%80banner%2Ejpg.html -->
 
 星尘幻想研究所 | 社团LOGO
 
@@ -9,10 +9,6 @@
   
 东方同人社团，星尘幻想研究所的banner
   
-
-
-
-
 
 ---
 

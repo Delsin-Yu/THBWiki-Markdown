@@ -1,21 +1,19 @@
 # 「那由多の想いは旭日の上に──。」_Shoot_the_Bullet_：_Spellcard_AnotherImage_Vox.
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b0\ns0%3A%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox%2E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b0\ns0%3A%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox%2E.html -->
 
 2006年8月13日 由 NTconfess 于 Comic Market 70 发布的漫画/画集/其他同人志，一共67页，登场人物有 射命丸文、蓬莱山辉夜、八意永琳、因幡帝、铃仙·优昙华院·因幡、八云紫，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-「那由多の想いは旭日の上に──。」_Shoot_the_Bullet_：_Spellcard_AnotherImage_Vox.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/43/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E5%B0%81%E9%9D%A2.jpg/141px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="141" height="196" srcset="https://upload.thwiki.cc/thumb/4/43/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E5%B0%81%E9%9D%A2.jpg/212px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/43/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E5%B0%81%E9%9D%A2.jpg/283px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1500" data-file-height="2080"></a><div class="cover-char">角色：<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a>，<a href="./八意永琳.md" title="八意永琳">八意永琳</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> 「那由多の想いは旭日の上に──。」 Shoot the Bullet&#160;: Spellcard AnotherImage Vox. </td></tr><tr><td class="label">制作方</td><td><a href="./NTconfess.md" title="NTconfess">NTconfess</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-「那由多の想いは旭日の上に──。」_Shoot_the_Bullet_：_Spellcard_AnotherImage_Vox.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/43/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E5%B0%81%E9%9D%A2.jpg/141px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="141" height="196" srcset="https://upload.thwiki.cc/thumb/4/43/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E5%B0%81%E9%9D%A2.jpg/212px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/43/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E5%B0%81%E9%9D%A2.jpg/283px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1500" data-file-height="2080"></a><div class="cover-char">角色：<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a>，<a href="./八意永琳.md" title="八意永琳">八意永琳</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2006-08-13&#160;（<a href="/展会作品列表?e=Comic+Market%2370">Comic Market 70</a>）</td></tr><tr><td class="label">类型</td><td>漫画，画集，其他</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>67P</td></tr><tr><td class="label">登场人物</td><td><a href="./射命丸文.md" title="射命丸文">射命丸文</a>，<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a>，<a href="./八意永琳.md" title="八意永琳">八意永琳</a>，<a href="./因幡帝.md" title="因幡帝">因幡帝</a>，<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>，<a href="./八云紫.md" title="八云紫">八云紫</a></td></tr><tr><td class="label">售价</td><td>800日元<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td></tr>
+</tr><tr><td class="label">名称</td><td colspan="2"> 「那由多の想いは旭日の上に──。」 Shoot the Bullet : Spellcard AnotherImage Vox. </td></tr><tr><td class="label">制作方</td><td><a href="./NTconfess.md" title="NTconfess">NTconfess</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-「那由多の想いは旭日の上に──。」_Shoot_the_Bullet_：_Spellcard_AnotherImage_Vox.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/43/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E5%B0%81%E9%9D%A2.jpg/141px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="141" height="196" srcset="https://upload.thwiki.cc/thumb/4/43/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E5%B0%81%E9%9D%A2.jpg/212px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/43/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E5%B0%81%E9%9D%A2.jpg/283px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1500" data-file-height="2080"></a><div class="cover-char">角色：<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a>，<a href="./八意永琳.md" title="八意永琳">八意永琳</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2006-08-13 （<a href="./展会作品列表.md#70">Comic Market 70</a>）</td></tr><tr><td class="label">类型</td><td>漫画，画集，其他</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>67P</td></tr><tr><td class="label">登场人物</td><td><a href="./射命丸文.md" title="射命丸文">射命丸文</a>，<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a>，<a href="./八意永琳.md" title="八意永琳">八意永琳</a>，<a href="./因幡帝.md" title="因幡帝">因幡帝</a>，<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>，<a href="./八云紫.md" title="八云紫">八云紫</a></td></tr><tr><td class="label">售价</td><td>800日元<span>[^cite_note-1]</span></td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www92.sakura.ne.jp/~nk/">http://www92.sakura.ne.jp/~nk/</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr><tr><td class="label">备注</td><td colspan="2">带剧情的CG集。</td></tr></tbody></table>
 
 「那由多の想いは旭日の上に──。」 Shoot the Bullet ： Spellcard AnotherImage Vox.（同人志，NTconfess，2006） - 2006年8月13日 由 NTconfess 于 Comic Market 70 发布的漫画/画集/其他同人志，一共67页，登场人物有 射命丸文、蓬莱山辉夜、八意永琳、因幡帝、铃仙·优昙华院·因幡、八云紫，分级为 一般向
-
 ## 配置需求
 
 <table>
@@ -24,9 +22,16 @@
 </tbody></table>
 
 
-
 ## 预览
--  (未找到链接)-  (未找到链接)-  (未找到链接)-  (未找到链接)-  (未找到链接)-  (未找到链接)-  (未找到链接)-  (未找到链接)
+
+- <img alt="「那由多の想いは旭日の上に──。」 Shoot the Bullet ： Spellcard AnotherImage Vox.预览图1.jpg" src="https://upload.thwiki.cc/thumb/e/ea/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/270px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="180" height="250" srcset="https://upload.thwiki.cc/thumb/e/ea/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/406px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ea/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/541px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="1500" data-file-height="2080"> 
+- <img alt="「那由多の想いは旭日の上に──。」 Shoot the Bullet ： Spellcard AnotherImage Vox.预览图2.jpg" src="https://upload.thwiki.cc/thumb/5/5b/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/513px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="342" height="250" srcset="https://upload.thwiki.cc/thumb/5/5b/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/769px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/5/5b/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 2x" data-file-width="798" data-file-height="584"> 
+- <img alt="「那由多の想いは旭日の上に──。」 Shoot the Bullet ： Spellcard AnotherImage Vox.预览图3.jpg" src="https://upload.thwiki.cc/thumb/0/00/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/500px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg" decoding="async" loading="lazy" width="334" height="250" srcset="https://upload.thwiki.cc/thumb/0/00/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/751px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 1.5x, https://upload.thwiki.cc/0/00/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 2x" data-file-width="800" data-file-height="600"> 
+- <img alt="「那由多の想いは旭日の上に──。」 Shoot the Bullet ： Spellcard AnotherImage Vox.预览图4.jpg" src="https://upload.thwiki.cc/thumb/4/42/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/572px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg" decoding="async" loading="lazy" width="382" height="250" srcset="https://upload.thwiki.cc/thumb/4/42/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/858px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 1.5x, https://upload.thwiki.cc/4/42/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 2x" data-file-width="980" data-file-height="643"> 
+- <img alt="「那由多の想いは旭日の上に──。」 Shoot the Bullet ： Spellcard AnotherImage Vox.预览图5.jpg" src="https://upload.thwiki.cc/thumb/1/16/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg/572px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg" decoding="async" loading="lazy" width="382" height="250" srcset="https://upload.thwiki.cc/thumb/1/16/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg/858px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg 1.5x, https://upload.thwiki.cc/1/16/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg 2x" data-file-width="980" data-file-height="643"> 
+- <img alt="「那由多の想いは旭日の上に──。」 Shoot the Bullet ： Spellcard AnotherImage Vox.预览图6.jpg" src="https://upload.thwiki.cc/thumb/5/5d/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE6.jpg/572px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE6.jpg" decoding="async" loading="lazy" width="382" height="250" srcset="https://upload.thwiki.cc/thumb/5/5d/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE6.jpg/858px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE6.jpg 1.5x, https://upload.thwiki.cc/5/5d/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE6.jpg 2x" data-file-width="980" data-file-height="643"> 
+- <img alt="「那由多の想いは旭日の上に──。」 Shoot the Bullet ： Spellcard AnotherImage Vox.预览图7.jpg" src="https://upload.thwiki.cc/thumb/d/d0/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE7.jpg/500px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE7.jpg" decoding="async" loading="lazy" width="334" height="250" srcset="https://upload.thwiki.cc/thumb/d/d0/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE7.jpg/751px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE7.jpg 1.5x, https://upload.thwiki.cc/d/d0/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE7.jpg 2x" data-file-width="800" data-file-height="600"> 
+- <img alt="「那由多の想いは旭日の上に──。」 Shoot the Bullet ： Spellcard AnotherImage Vox.预览图8.jpg" src="https://upload.thwiki.cc/thumb/2/22/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE8.jpg/500px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE8.jpg" decoding="async" loading="lazy" width="334" height="250" srcset="https://upload.thwiki.cc/thumb/2/22/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE8.jpg/751px-%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE8.jpg 1.5x, https://upload.thwiki.cc/2/22/%E3%80%8C%E9%82%A3%E7%94%B1%E5%A4%9A%E3%81%AE%E6%83%B3%E3%81%84%E3%81%AF%E6%97%AD%E6%97%A5%E3%81%AE%E4%B8%8A%E3%81%AB%E2%94%80%E2%94%80%E3%80%82%E3%80%8D_Shoot_the_Bullet_%EF%BC%9A_Spellcard_AnotherImage_Vox.%E9%A2%84%E8%A7%88%E5%9B%BE8.jpg 2x" data-file-width="800" data-file-height="600"> 
 
 
 ## Staff
@@ -43,18 +48,14 @@ Guest illustration
 *Title Translation
 : NZ-saru (未找到链接)（[NTconfess](./NTconfess.md)）
 
-
 ## 曲目
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="光の舞" colspan="2" class="title">光の舞<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ak&amp;ogmusic=レトロスペクティブ京都&amp;fromwiki=「那由多の想いは旭日の上に──。」_Shoot_the_Bullet_：_Spellcard_AnotherImage_Vox."><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:40</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=ak&amp;action=edit&amp;redlink=1" class="new" title="ak（页面不存在）">ak</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ak&amp;fromwiki=「那由多の想いは旭日の上に──。」_Shoot_the_Bullet_：_Spellcard_AnotherImage_Vox."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=レトロスペクティブ京都&amp;fromwiki=「那由多の想いは旭日の上に──。」_Shoot_the_Bullet_：_Spellcard_AnotherImage_Vox."><span></span></a></span><div class="ogmusic"><a href="./レトロスペクティブ京都.md" class="mw-redirect" title="レトロスペクティブ京都">レトロスペクティブ京都</a></div><div class="source"><a href="./东方文花帖_～_Shoot_the_Bullet..md" class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr><tr><td id="2" class="infoYD"><b>02</b></td><td id="陽と月の狭間で。" colspan="2" class="title">陽と月の狭間で。<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ak&amp;ogmusic=天狗の手帖　～ Mysterious Note&amp;fromwiki=「那由多の想いは旭日の上に──。」_Shoot_the_Bullet_：_Spellcard_AnotherImage_Vox."><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=ak&amp;action=edit&amp;redlink=1" class="new" title="ak（页面不存在）">ak</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ak&amp;fromwiki=「那由多の想いは旭日の上に──。」_Shoot_the_Bullet_：_Spellcard_AnotherImage_Vox."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=天狗の手帖　～ Mysterious Note&amp;fromwiki=「那由多の想いは旭日の上に──。」_Shoot_the_Bullet_：_Spellcard_AnotherImage_Vox."><span></span></a></span><div class="ogmusic"><a href="./天狗の手帖_～_Mysterious_Note.md" class="mw-redirect" title="天狗の手帖 ～ Mysterious Note">天狗の手帖　～ Mysterious Note</a></div><div class="source"><a href="./东方文花帖_～_Shoot_the_Bullet..md" class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr><tr><td id="3" class="infoYL"><b>03</b></td><td id="幻月夜_～a_Life_in_Eternal_Motion～" colspan="2" class="title">幻月夜 ～a Life in Eternal Motion～<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ak&amp;fromwiki=「那由多の想いは旭日の上に──。」_Shoot_the_Bullet_：_Spellcard_AnotherImage_Vox."><span title="搜索相似同人曲"></span></a></span></td><td class="time">07:49</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=ak&amp;action=edit&amp;redlink=1" class="new" title="ak（页面不存在）">ak</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ak&amp;fromwiki=「那由多の想いは旭日の上に──。」_Shoot_the_Bullet_：_Spellcard_AnotherImage_Vox."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">永夜抄印象原创曲。</td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="光の舞" colspan="2" class="title">光の舞</td><td class="time">06:40</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="ak（页面不存在）">ak</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./回忆京都.md" class="mw-redirect" title="レトロスペクティブ京都">レトロスペクティブ京都</a></div><div class="source"><a href="./东方文花帖.md" class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr><tr><td id="2" class="infoYD"><b>02</b></td><td id="陽と月の狭間で。" colspan="2" class="title">陽と月の狭間で。</td><td class="time">02:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="ak（页面不存在）">ak</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./天狗的笔记_～_Mysterious_Note.md" class="mw-redirect" title="天狗の手帖 ～ Mysterious Note">天狗の手帖　～ Mysterious Note</a></div><div class="source"><a href="./东方文花帖.md" class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr><tr><td id="3" class="infoYL"><b>03</b></td><td id="幻月夜_～a_Life_in_Eternal_Motion～" colspan="2" class="title">幻月夜 ～a Life in Eternal Motion～</td><td class="time">07:49</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a class="new" title="ak（页面不存在）">ak</a></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">永夜抄印象原创曲。</td></tr></tbody></table>
 
 
 ## 评论
-
   
 -I wish I could feel that same thought of people and that strength I felt in ancient.-  
-
   
 
 永遠亭に住まう者4人の繰出すカタチ(弾幕)に込められた願いと意味と想い。  
@@ -62,7 +63,6 @@ Guest illustration
 文が聞き、そして……それを身を以って知る。  
 
 弾幕一つに対して複数枚を使用し、一つの意味となる全年齢向け弾幕イメージ集。  
-
   
 
 私が遠い昔に感じた  
@@ -72,9 +72,7 @@ Guest illustration
 “その強さ”を  
 
 再び感じられる事を願って…  
-
   
-
   
 
 （ ak-Comment ）　  
@@ -98,7 +96,6 @@ Guest illustration
 天狗（曲）が無かったら、カレイドスコープも、最後の旭日もグレーになってた。  
 
 本当に有難う！  
-
   
 
 （ ホルテン-Comment ）　  
@@ -120,7 +117,6 @@ Guest illustration
 見た瞬間「もう変えないで下さい！これがいい！」と言ってしまった程。  
 
 ありがとうございましたっ！  
-
   
 
 （ zp-Comment ）　  
@@ -146,7 +142,6 @@ Guest illustration
 …それはいいとして、このCDの中で一番元気な絵でとてもうれしかった。  
 
 ありがとうな！  
-
   
 
 /PostScript.  
@@ -164,7 +159,6 @@ Guest illustration
 最終的にゲストさん二人を加え、グレー階調と音を纏い、この形に。　これは本じゃ出来なかった。  
 
 ＊今回オマケは無いです。主軸の話に全てを注ぎ込みましたので。…フラン描きたかったけど。  
-
   
 
 akとは主軸の話の事を「此処で曲いれたい！、いや違う、此処だ！此処でシンクロさせたい！」などと打ち合わせをつつ、  
@@ -176,15 +170,12 @@ akとは主軸の話の事を「此処で曲いれたい！、いや違う、此
 自分が一番楽しめるものだから、今これを読んでくれている貴方にもそう感じて貰えていたら嬉しいです。  
 
 我侭に、死ぬ気で作りたいものが作れた。CDでやるならこの位のシンクロが欲しかったんだ。 …３人とも有難う。酒呑みに行こう！  
-
   
 
 それでは！読んでくれて有難う！またねっ！  
 
 絵縫 桂　20060726am（入稿日）　  
-
   
-
   
 
 補足 「幻月夜」  
@@ -192,7 +183,6 @@ akとは主軸の話の事を「此処で曲いれたい！、いや違う、此
 blurさんのサイトに有る永夜抄イメージ曲（blurイメージ）に輝夜のイメージが浮かび上がってしまい、許可の上、収録させてもらいました。  
 
 凄く見辛いかもしれませんが、あの形のままのイメージが出て来たので、そのまま使いました。理由は曲の中に有ります。  
-
   
 
 補足 「今後」  
@@ -203,13 +193,7 @@ blurさんのサイトに有る永夜抄イメージ曲（blurイメージ）に
 
 対談は三面拳が集った時にしか行えないので、今回はしてません。乳、早くやって！
   
-
-
 [^cite_note-1]: 含税价格为840円，当时消费税为5%，所以实际价格为800円
-
-
-
-
 
 ---
 

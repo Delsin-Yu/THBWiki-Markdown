@@ -1,6 +1,6 @@
 # 文件:Goodbye!_My_Karma!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3AGoodbye%21_My_Karma%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3AGoodbye%21_My_Karma%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 茜音色タウン
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Goodbye! My Karma!](./Goodbye!_My_Karma!.md)  
-该封面包含的角色：- [魅魔](./魅魔.md)
-
-
-
+- [Goodbye! My Karma!](./Goodbye!_My_Karma!.md)该封面包含的角色：
+- [魅魔](./魅魔.md)
 
 
 ---

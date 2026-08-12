@@ -1,18 +1,13 @@
 # 文件:Lphonelogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3ALphonelogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3ALphonelogo%2Ejpg.html -->
 
 Lphone | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://pbs.twimg.com/media/CzFOD7BVIAEQEk-?format=jpg&amp;name=orig), [source tweet](https://twitter.com/yusuke1039pro/status/806511646554234881)
-  
-
-
-
-
+源地址：[direct image link](https://pbs.twimg.com/media/CzFOD7BVIAEQEk-?format=jpg&name=orig), [source tweet](https://twitter.com/yusuke1039pro/status/806511646554234881)  
 
 ---
 

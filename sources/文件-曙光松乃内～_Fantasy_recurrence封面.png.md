@@ -1,6 +1,6 @@
 # 文件:曙光松乃内～_Fantasy_recurrence封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E6%9B%99%E5%85%89%E6%9D%BE%E4%B9%83%E5%86%85%EF%BD%9E_Fantasy_recurrence%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E6%9B%99%E5%85%89%E6%9D%BE%E4%B9%83%E5%86%85%EF%BD%9E_Fantasy_recurrence%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Mace's_Secret_Base | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Mace's_Secret_Base | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [曙光松乃内～ Fantasy recurrence](./曙光松乃内～_Fantasy_recurrence.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [曙光松乃内～ Fantasy recurrence](./曙光松乃内～_Fantasy_recurrence.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

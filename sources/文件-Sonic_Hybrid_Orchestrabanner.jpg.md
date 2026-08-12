@@ -1,12 +1,8 @@
 # 文件:Sonic_Hybrid_Orchestrabanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3ASonic_Hybrid_Orchestrabanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3ASonic_Hybrid_Orchestrabanner%2Ejpg.html -->
 
 Sonic_Hybrid_Orchestra | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:Le04Stage5BrillTitle.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3ALe04Stage5BrillTitle%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3ALe04Stage5BrillTitle%2Ejpg.html -->
 
 连缘天影战记
-
-
-
-
 
 
 ---

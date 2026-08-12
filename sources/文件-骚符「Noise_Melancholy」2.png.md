@@ -1,12 +1,8 @@
 # 文件:骚符「Noise_Melancholy」2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E9%AA%9A%E7%AC%A6%E3%80%8CNoise_Melancholy%E3%80%8D2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E9%AA%9A%E7%AC%A6%E3%80%8CNoise_Melancholy%E3%80%8D2%2Epng.html -->
 
 东方花映塚 | 露娜萨·普莉兹姆利巴
-
-
-
-
 
 
 ---

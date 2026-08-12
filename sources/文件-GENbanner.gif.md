@@ -1,14 +1,11 @@
 # 文件:GENbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3AGENbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3AGENbanner%2Egif.html -->
 
 GEN | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

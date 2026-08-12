@@ -1,14 +1,11 @@
 # 文件:灵烈传EX+α面场景.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E7%81%B5%E7%83%88%E4%BC%A0EX%2B%CE%B1%E9%9D%A2%E5%9C%BA%E6%99%AF%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E7%81%B5%E7%83%88%E4%BC%A0EX%2B%CE%B1%E9%9D%A2%E5%9C%BA%E6%99%AF%2Epng.html -->
 
 トリック・ノスタルジー | 连缘灵烈传
 
 
 ## 文件说明
-
-
-
 
 ---
 

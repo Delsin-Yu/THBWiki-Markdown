@@ -1,6 +1,6 @@
 # 文件:神霊廟戦記_Gの騒乱封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A%E7%A5%9E%E9%9C%8A%E5%BB%9F%E6%88%A6%E8%A8%98_G%E3%81%AE%E9%A8%92%E4%B9%B1%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A%E7%A5%9E%E9%9C%8A%E5%BB%9F%E6%88%A6%E8%A8%98_G%E3%81%AE%E9%A8%92%E4%B9%B1%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 うり畑牧場 | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [神霊廟戦記 Gの騒乱](./神霊廟戦記_Gの騒乱.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [神霊廟戦記 Gの騒乱](./神霊廟戦記_Gの騒乱.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

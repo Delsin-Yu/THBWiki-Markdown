@@ -1,18 +1,13 @@
 # 文件:Eurobeat★Paradiselogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3AEurobeat%E2%98%85Paradiselogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3AEurobeat%E2%98%85Paradiselogo%2Epng.html -->
 
 Eurobeat★Paradise | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](https://f4.bcbits.com/img/0025461591_0.png), [source page (artist Bandcamp)](https://eurobeatparadise.bandcamp.com/)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://f4.bcbits.com/img/0025461591_0.png), [source page (artist Bandcamp)](https://eurobeatparadise.bandcamp.com/)  
 
 ---
 

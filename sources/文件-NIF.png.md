@@ -1,12 +1,8 @@
 # 文件:NIF.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ANIF%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ANIF%2Epng.html -->
 
 NIF | NOT_INK_FELL | 二次角色立绘
-
-
-
-
 
 
 ---

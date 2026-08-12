@@ -1,14 +1,11 @@
 # 文件:闭符「Big_Crunch」（大战争）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E9%97%AD%E7%AC%A6%E3%80%8CBig_Crunch%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E9%97%AD%E7%AC%A6%E3%80%8CBig_Crunch%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
 
 妖精大战争 | 敌机符卡 | 雾雨魔理沙
 
 
 ## 文件说明
-
-
-
 
 ---
 

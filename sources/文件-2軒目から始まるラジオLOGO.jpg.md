@@ -1,12 +1,8 @@
 # 文件:2軒目から始まるラジオLOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A2%E8%BB%92%E7%9B%AE%E3%81%8B%E3%82%89%E5%A7%8B%E3%81%BE%E3%82%8B%E3%83%A9%E3%82%B8%E3%82%AALOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A2%E8%BB%92%E7%9B%AE%E3%81%8B%E3%82%89%E5%A7%8B%E3%81%BE%E3%82%8B%E3%83%A9%E3%82%B8%E3%82%AALOGO%2Ejpg.html -->
 
 2軒目から始まるラジオ
-
-
-
-
 
 
 ---

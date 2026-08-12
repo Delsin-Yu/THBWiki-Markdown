@@ -1,6 +1,6 @@
 # 文件:爆東方幻想郷_外伝_FIGHTING_RAVEN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E7%88%86%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E9%83%B7_%E5%A4%96%E4%BC%9D_FIGHTING_RAVEN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E7%88%86%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E9%83%B7_%E5%A4%96%E4%BC%9D_FIGHTING_RAVEN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 @N-Factory | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [爆東方幻想郷 外伝 FIGHTING RAVEN](./爆東方幻想郷_外伝_FIGHTING_RAVEN.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
-
-
-
+- [爆東方幻想郷 外伝 FIGHTING RAVEN](./爆東方幻想郷_外伝_FIGHTING_RAVEN.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

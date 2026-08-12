@@ -1,6 +1,6 @@
 # 文件:東方戦爛華_魔理沙の章～Make_Of_Break_Overroad～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E6%9D%B1%E6%96%B9%E6%88%A6%E7%88%9B%E8%8F%AF_%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AE%E7%AB%A0%EF%BD%9EMake_Of_Break_Overroad%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E6%9D%B1%E6%96%B9%E6%88%A6%E7%88%9B%E8%8F%AF_%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AE%E7%AB%A0%EF%BD%9EMake_Of_Break_Overroad%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TravelFrontier | 封面图片 | 软件封面
 
@@ -8,16 +8,16 @@ TravelFrontier | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方戦爛華 魔理沙の章～Make Of Break Overroad～](./東方戦爛華_魔理沙の章～Make_Of_Break_Overroad～.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [魂魄妖梦](./魂魄妖梦.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)- [上白泽慧音](./上白泽慧音.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [東方戦爛華 魔理沙の章～Make Of Break Overroad～](./東方戦爛華_魔理沙の章～Make_Of_Break_Overroad～.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
+- [上白泽慧音](./上白泽慧音.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link](http://blog.cnobi.jp/v1/blog/user/8c1731f85c025e3c1e7b8dc4efdff7f3/1284222090), [source page](http://trafro.blog.shinobi.jp/とみやましろの何か/紅楼夢お品書！)
-  
-
-
-
-
+源地址：[direct image link](http://blog.cnobi.jp/v1/blog/user/8c1731f85c025e3c1e7b8dc4efdff7f3/1284222090), [source page](http://trafro.blog.shinobi.jp/とみやましろの何か/紅楼夢お品書！)  
 
 ---
 

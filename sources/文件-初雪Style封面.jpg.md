@@ -1,6 +1,6 @@
 # 文件:初雪Style封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%E5%88%9D%E9%9B%AAStyle%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%E5%88%9D%E9%9B%AAStyle%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ロクプラス | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [初雪Style](./初雪Style.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)- [火焰猫燐](./火焰猫燐.md)
-
-
-
+- [初雪Style](./初雪Style.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
+- [火焰猫燐](./火焰猫燐.md)
 
 
 ---

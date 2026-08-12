@@ -1,6 +1,6 @@
 # 文件:MARIPPY封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AMARIPPY%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AMARIPPY%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 yu-ki | 封面图片 | 软件封面
 
@@ -15,10 +15,6 @@ yu-ki | 封面图片 | 软件封面
   
 screenshot of title screen
   
-
-
-
-
 
 ---
 

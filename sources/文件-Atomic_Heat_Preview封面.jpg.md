@@ -1,6 +1,6 @@
 # 文件:Atomic_Heat_Preview封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AAtomic_Heat_Preview%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AAtomic_Heat_Preview%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 efs | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ efs | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Atomic Heat Preview](./Atomic_Heat_Preview.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)
-
-
-
+- [Atomic Heat Preview](./Atomic_Heat_Preview.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
 
 
 ---

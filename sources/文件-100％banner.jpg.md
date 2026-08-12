@@ -1,16 +1,11 @@
 # 文件:100％banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3A100%EF%BC%85banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3A100%EF%BC%85banner%2Ejpg.html -->
 
 100% | 社团LOGO
 
   
-源地址：[[1]](https://hyakupa.bandcamp.com/)
-  
-
-
-
-
+源地址：[\[1\]](https://hyakupa.bandcamp.com/)  
 
 ---
 

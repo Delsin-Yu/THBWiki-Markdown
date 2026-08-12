@@ -1,18 +1,13 @@
 # 文件:猫侍banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E7%8C%AB%E4%BE%8Dbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E7%8C%AB%E4%BE%8Dbanner%2Ejpg.html -->
 
 猫侍 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://tohonekosamurai.web.fc2.com/pic/banner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://tohonekosamurai.web.fc2.com/pic/banner.jpg)  
 
 ---
 

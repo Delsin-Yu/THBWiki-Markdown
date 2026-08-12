@@ -1,12 +1,8 @@
 # 文件:GoM插图（莉莉卡-LOGO）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%8E%89%E8%8E%89%E5%8D%A1-LOGO%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%8E%89%E8%8E%89%E5%8D%A1-LOGO%EF%BC%89%2Ejpg.html -->
 
 莉莉卡·普莉兹姆利巴 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

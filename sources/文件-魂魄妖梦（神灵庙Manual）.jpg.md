@@ -1,12 +1,8 @@
 # 文件:魂魄妖梦（神灵庙Manual）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99Manual%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99Manual%EF%BC%89%2Ejpg.html -->
 
 Manual配图 | 东方神灵庙 | 魂魄妖梦
-
-
-
-
 
 
 ---

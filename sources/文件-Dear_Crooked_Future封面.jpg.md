@@ -1,6 +1,6 @@
 # 文件:Dear_Crooked_Future封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3ADear_Crooked_Future%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3ADear_Crooked_Future%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 クロックタイムアナグラム | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Dear Crooked Future](./Dear_Crooked_Future.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [Dear Crooked Future](./Dear_Crooked_Future.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

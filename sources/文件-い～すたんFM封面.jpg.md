@@ -1,6 +1,6 @@
 # 文件:い～すたんFM封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E3%81%84%EF%BD%9E%E3%81%99%E3%81%9F%E3%82%93FM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E3%81%84%EF%BD%9E%E3%81%99%E3%81%9F%E3%82%93FM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 一人華飯スペシャル | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [い～すたんFM](./い～すたんFM.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [い～すたんFM](./い～すたんFM.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

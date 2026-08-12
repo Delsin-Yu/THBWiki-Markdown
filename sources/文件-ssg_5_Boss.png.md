@@ -1,16 +1,12 @@
 # 文件:ssg_5_Boss.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3Assg_5_Boss%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3Assg_5_Boss%2Epng.html -->
 
 秋霜玉
 
   
 秋霜玉5面Boss像素图。
   
-
-
-
-
 
 ---
 

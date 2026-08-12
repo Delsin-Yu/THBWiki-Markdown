@@ -1,14 +1,11 @@
 # 文件:茨符「Confined_Innocent」（心绮楼）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E8%8C%A8%E7%AC%A6%E3%80%8CConfined_Innocent%E3%80%8D%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E8%8C%A8%E7%AC%A6%E3%80%8CConfined_Innocent%E3%80%8D%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%EF%BC%89%2Epng.html -->
 
 东方心绮楼 | 古明地恋 | 敌机符卡
 
 
 ## 文件说明
-
-
-
 
 ---
 

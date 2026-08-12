@@ -1,12 +1,8 @@
 # 文件:AGENT_0_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AAGENT_0_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AAGENT_0_banner%2Ejpg.html -->
 
 AGENT_0 | 社团LOGO
-
-
-
-
 
 
 ---

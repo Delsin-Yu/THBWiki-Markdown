@@ -1,6 +1,6 @@
 # 文件:Catharsis（PhantomMist）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3ACatharsis%EF%BC%88PhantomMist%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3ACatharsis%EF%BC%88PhantomMist%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PhantomMist | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ PhantomMist | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Catharsis（PhantomMist）](./Catharsis（PhantomMist）.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)- [稀神探女](./稀神探女.md)
-
-
-
+- [Catharsis（PhantomMist）](./Catharsis（PhantomMist）.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
+- [稀神探女](./稀神探女.md)
 
 
 ---

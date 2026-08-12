@@ -1,6 +1,6 @@
 # 文件:東方砕臓腑～Tale_in_the_gore.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E6%9D%B1%E6%96%B9%E7%A0%95%E8%87%93%E8%85%91%EF%BD%9ETale_in_the_gore%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E6%9D%B1%E6%96%B9%E7%A0%95%E8%87%93%E8%85%91%EF%BD%9ETale_in_the_gore%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 堕武者グラインド | 封面图片
 
@@ -8,16 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方砕臓腑～Tale in the gore.](./東方砕臓腑～Tale_in_the_gore..md)  
-该封面包含的角色：- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
+- [東方砕臓腑～Tale in the gore.](./東方砕臓腑～Tale_in_the_gore..md)该封面包含的角色：
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
+- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
+- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
 
   
-源地址: [[1]](https://static.wixstatic.com/media/f6614a_a7225fc67b72445392d7de15357b1ae4.png/v1/fill/w_430,h_420,al_c/f6614a_a7225fc67b72445392d7de15357b1ae4.png)
-  
-
-
-
-
+源地址: [\[1\]](https://static.wixstatic.com/media/f6614a_a7225fc67b72445392d7de15357b1ae4.png/v1/fill/w_430,h_420,al_c/f6614a_a7225fc67b72445392d7de15357b1ae4.png)  
 
 ---
 

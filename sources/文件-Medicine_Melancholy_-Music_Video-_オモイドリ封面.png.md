@@ -1,6 +1,6 @@
 # 文件:Medicine_Melancholy_-Music_Video-_オモイドリ封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3AMedicine_Melancholy_-Music_Video-_%E3%82%AA%E3%83%A2%E3%82%A4%E3%83%89%E3%83%AA%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3AMedicine_Melancholy_-Music_Video-_%E3%82%AA%E3%83%A2%E3%82%A4%E3%83%89%E3%83%AA%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 BACK_foot | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ BACK_foot | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Medicine Melancholy -Music Video- オモイドリ](./Medicine_Melancholy_-Music_Video-_オモイドリ.md)  
-该封面包含的角色：- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
+- [Medicine Melancholy -Music Video- オモイドリ](./Medicine_Melancholy_-Music_Video-_オモイドリ.md)该封面包含的角色：
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
 
   
-源地址：[direct image link (original size; cropped)](https://booth.pximg.net/a7d914ca-ed56-46a4-9d70-2bc7c9aa70a8/i/4544433/606a3240-ac1d-413d-b999-51a7079a5664.png), [source page (circle Booth)](https://dqnww.booth.pm/items/4544433)
-  
-
-
-
-
+源地址：[direct image link (original size; cropped)](https://booth.pximg.net/a7d914ca-ed56-46a4-9d70-2bc7c9aa70a8/i/4544433/606a3240-ac1d-413d-b999-51a7079a5664.png), [source page (circle Booth)](https://dqnww.booth.pm/items/4544433)  
 
 ---
 

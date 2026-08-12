@@ -1,12 +1,8 @@
 # 文件:红之广场LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A%E7%BA%A2%E4%B9%8B%E5%B9%BF%E5%9C%BALOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A%E7%BA%A2%E4%B9%8B%E5%B9%BF%E5%9C%BALOGO%2Ejpg.html -->
 
 活动LOGO | 红之广场
-
-
-
-
 
 
 ---

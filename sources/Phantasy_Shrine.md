@@ -1,11 +1,10 @@
 # Phantasy_Shrine
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a8\ns0%3APhantasy_Shrine.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a8\ns0%3APhantasy_Shrine.html -->
 
 Phantasy Shrine ，于 2015 年成立，主要制作 其他 的乌克兰同人社团，主催是 Sergey , Yurii Kostiv，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -14,16 +13,12 @@ Phantasy Shrine ，于 2015 年成立，主要制作 其他 的乌克兰同人�
 - [4 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-Phantasy_Shrinebanner.jpg.md)  [](./文件-Phantasy_Shrinebanner.jpg.md)banner
-
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Phantasy Shrine </td></tr><tr><td><b>中文名称</b></td><td>梦幻神社</td></tr><tr><td><b>主要作品类型</b></td><td>其他</td></tr><tr><td><b>成立时间</b></td><td>2015</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Sergey_,_Yurii_Kostiv&amp;action=edit&amp;redlink=1" class="new" title="Sergey , Yurii Kostiv（页面不存在）">Sergey , Yurii Kostiv</a> </td></tr><tr><td><b>地区</b></td><td>乌克兰</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://vk.com/phantasy_shrine">http://vk.com/phantasy_shrine</a> </td></tr></tbody></table>
+<img alt="" src="https://upload.thwiki.cc/thumb/f/f0/Phantasy_Shrinebanner.jpg/200px-Phantasy_Shrinebanner.jpg" decoding="async" loading="lazy" width="200" height="226" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/f/f0/Phantasy_Shrinebanner.jpg/300px-Phantasy_Shrinebanner.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f0/Phantasy_Shrinebanner.jpg/400px-Phantasy_Shrinebanner.jpg 2x" data-file-width="639" data-file-height="723">
+ [放大](./文件-Phantasy_Shrinebanner.jpg.md)banner
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Phantasy Shrine </td></tr><tr><td><b>中文名称</b></td><td>梦幻神社</td></tr><tr><td><b>主要作品类型</b></td><td>其他</td></tr><tr><td><b>成立时间</b></td><td>2015</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="Sergey , Yurii Kostiv（页面不存在）">Sergey , Yurii Kostiv</a> </td></tr><tr><td><b>地区</b></td><td>乌克兰</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://vk.com/phantasy_shrine">http://vk.com/phantasy_shrine</a> </td></tr></tbody></table>
 
 Phantasy Shrine（同人社团，其他社团） - Phantasy Shrine ，于 2015 年成立，主要制作 其他 的乌克兰同人社团，主催是 Sergey , Yurii Kostiv，当前状态为 活动
-
 ## 成员名单
   
 Sergey
@@ -35,7 +30,6 @@ Yurii Kostiv
 Yume Natsu（负责记录活动）等
   
 
-
 ## 作品列表
 
 ## 其他信息
@@ -45,10 +39,6 @@ Yume Natsu（负责记录活动）等
   
 ②  Phantasy Shrine举办在哈尔科夫市Tesla pub（特斯拉酒馆）的“Touhou Gaming Events”算是乌克兰的第一次真正意义上的Touhou-ONLY活动了
   
-
-
-
-
 
 ---
 

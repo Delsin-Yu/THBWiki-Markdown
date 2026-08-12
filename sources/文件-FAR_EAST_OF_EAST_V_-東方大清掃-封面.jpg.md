@@ -1,6 +1,6 @@
 # 文件:FAR_EAST_OF_EAST_V_-東方大清掃-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AFAR_EAST_OF_EAST_V_-%E6%9D%B1%E6%96%B9%E5%A4%A7%E6%B8%85%E6%8E%83-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AFAR_EAST_OF_EAST_V_-%E6%9D%B1%E6%96%B9%E5%A4%A7%E6%B8%85%E6%8E%83-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TatshMusicCircle | 专辑封面 | 封面图片
 
@@ -8,16 +8,14 @@ TatshMusicCircle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FAR EAST OF EAST V -東方大清掃-](./FAR_EAST_OF_EAST_V_-東方大清掃-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [魂魄妖梦](./魂魄妖梦.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [FAR EAST OF EAST V -東方大清掃-](./FAR_EAST_OF_EAST_V_-東方大清掃-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://tmccd.web.fc2.com/images/feoe5.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://tmccd.web.fc2.com/images/feoe5.jpg)  
 
 ---
 

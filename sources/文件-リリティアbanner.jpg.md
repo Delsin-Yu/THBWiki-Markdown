@@ -1,14 +1,11 @@
 # 文件:リリティアbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3A%E3%83%AA%E3%83%AA%E3%83%86%E3%82%A3%E3%82%A2banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3A%E3%83%AA%E3%83%AA%E3%83%86%E3%82%A3%E3%82%A2banner%2Ejpg.html -->
 
 リリティア | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

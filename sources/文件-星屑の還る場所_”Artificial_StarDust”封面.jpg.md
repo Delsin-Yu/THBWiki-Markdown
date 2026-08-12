@@ -1,6 +1,6 @@
 # 文件:星屑の還る場所_”Artificial_StarDust”封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E6%98%9F%E5%B1%91%E3%81%AE%E9%82%84%E3%82%8B%E5%A0%B4%E6%89%80_%E2%80%9DArtificial_StarDust%E2%80%9D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E6%98%9F%E5%B1%91%E3%81%AE%E9%82%84%E3%82%8B%E5%A0%B4%E6%89%80_%E2%80%9DArtificial_StarDust%E2%80%9D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Forest306 | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Forest306 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [星屑の還る場所 ”Artificial StarDust”](./星屑の還る場所_”Artificial_StarDust”.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [星屑の還る場所 ”Artificial StarDust”](./星屑の還る場所_”Artificial_StarDust”.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（桑尼米尔克1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E6%A1%91%E5%B0%BC%E7%B1%B3%E5%B0%94%E5%85%8B1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E6%A1%91%E5%B0%BC%E7%B1%B3%E5%B0%94%E5%85%8B1%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 桑尼米尔克
 
 
 ## 摘要
-
-
-
 
 ---
 

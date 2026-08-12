@@ -1,6 +1,6 @@
 # 文件:Perfect_Cherry_Blossom_Artbook封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3APerfect_Cherry_Blossom_Artbook%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3APerfect_Cherry_Blossom_Artbook%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CYCLIC★REDUNDANCY | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ CYCLIC★REDUNDANCY | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Perfect Cherry Blossom Artbook](./Perfect_Cherry_Blossom_Artbook.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Perfect Cherry Blossom Artbook](./Perfect_Cherry_Blossom_Artbook.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[link_to_image](https://web.archive.org/web/20160421165421im_/http://img3.doujinpress.com/2013/01/19-0/83472/1.jpg), [source page](https://web.archive.org/web/20170402203703/http://www.doujinpress.com/products/83472~touhou-perfect-cherry-blossom-artbook-ninamo-aiwa/)
-  
-
-
-
-
+源地址：[link_to_image](https://web.archive.org/web/20160421165421im_/http://img3.doujinpress.com/2013/01/19-0/83472/1.jpg), [source page](https://web.archive.org/web/20170402203703/http://www.doujinpress.com/products/83472~touhou-perfect-cherry-blossom-artbook-ninamo-aiwa/)  
 
 ---
 

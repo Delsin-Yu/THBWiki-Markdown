@@ -1,6 +1,6 @@
 # 文件:her_eyes_to_see_the_truth_beyond_the_facts封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3Aher_eyes_to_see_the_truth_beyond_the_facts%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3Aher_eyes_to_see_the_truth_beyond_the_facts%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ごんばこんなか | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [her eyes to see the truth beyond the facts](./her_eyes_to_see_the_truth_beyond_the_facts.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [her eyes to see the truth beyond the facts](./her_eyes_to_see_the_truth_beyond_the_facts.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
   
-源地址：[direct image link (max size)](https://booth.pximg.net/fcead3ca-1360-4d15-ad96-f06804939042/i/3678134/a621d5e4-2162-4fb6-87bd-bd87efd1a9f9.jpg), [source page (circle Booth)](https://in-the-box.booth.pm/items/3678134)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://booth.pximg.net/fcead3ca-1360-4d15-ad96-f06804939042/i/3678134/a621d5e4-2162-4fb6-87bd-bd87efd1a9f9.jpg), [source page (circle Booth)](https://in-the-box.booth.pm/items/3678134)  
 
 ---
 

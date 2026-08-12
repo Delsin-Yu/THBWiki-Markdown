@@ -1,6 +1,6 @@
 # 文件:Into_the_Fate封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3AInto_the_Fate%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3AInto_the_Fate%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Echoes_Construction | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Echoes_Construction | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Into the Fate](./Into_the_Fate.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [Into the Fate](./Into_the_Fate.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[[1]](http://67.media.tumblr.com/0c1c3b62edcdaad56f808256f39f505f/tumblr_inline_nhwbwnCJ4B1t50xlz.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://67.media.tumblr.com/0c1c3b62edcdaad56f808256f39f505f/tumblr_inline_nhwbwnCJ4B1t50xlz.jpg)  
 
 ---
 

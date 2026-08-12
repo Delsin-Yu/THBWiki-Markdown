@@ -1,16 +1,11 @@
 # 文件:Aqua_Blend_Serverbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3AAqua_Blend_Serverbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3AAqua_Blend_Serverbanner%2Ejpg.html -->
 
 Aqua_Blend_Server | 社团LOGO
 
   
-源地址：[[1]](http://aquablendserver.mizusasi.net/images/logo.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://aquablendserver.mizusasi.net/images/logo.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:th03_WIN.ogg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3Ath03_WIN%2Eogg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3Ath03_WIN%2Eogg.html -->
 
 东方梦时空 | 胜利对话
 
@@ -9,10 +9,6 @@
 
 原游戏FM版，由PMDPlay导出。
   
-
-
-
-
 
 ---
 

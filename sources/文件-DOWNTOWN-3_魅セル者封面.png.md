@@ -1,6 +1,6 @@
 # 文件:DOWNTOWN-3_魅セル者封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3ADOWNTOWN-3_%E9%AD%85%E3%82%BB%E3%83%AB%E8%80%85%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3ADOWNTOWN-3_%E9%AD%85%E3%82%BB%E3%83%AB%E8%80%85%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 茜音色タウン
 
@@ -10,11 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [DOWNTOWN-3 魅セル者](./DOWNTOWN-3_魅セル者.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [魅魔](./魅魔.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [神绮](./神绮.md)
-
-
-
+- [DOWNTOWN-3 魅セル者](./DOWNTOWN-3_魅セル者.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [魅魔](./魅魔.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [神绮](./神绮.md)
 
 
 ---

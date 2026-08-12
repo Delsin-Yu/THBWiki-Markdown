@@ -1,12 +1,8 @@
 # 文件:恋风「Starlight_Typhoon」（永夜抄）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E6%81%8B%E9%A3%8E%E3%80%8CStarlight_Typhoon%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E6%81%8B%E9%A3%8E%E3%80%8CStarlight_Typhoon%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Epng.html -->
 
 东方永夜抄 | 敌机符卡 | 雾雨魔理沙
-
-
-
-
 
 
 ---

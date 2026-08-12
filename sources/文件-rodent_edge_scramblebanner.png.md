@@ -1,12 +1,8 @@
 # 文件:rodent_edge_scramblebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3Arodent_edge_scramblebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3Arodent_edge_scramblebanner%2Epng.html -->
 
 rodent_edge_scramble | 社团LOGO
-
-
-
-
 
 
 ---

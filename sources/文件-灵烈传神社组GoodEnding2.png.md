@@ -1,16 +1,11 @@
 # 文件:灵烈传神社组GoodEnding2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3A%E7%81%B5%E7%83%88%E4%BC%A0%E7%A5%9E%E7%A4%BE%E7%BB%84GoodEnding2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3A%E7%81%B5%E7%83%88%E4%BC%A0%E7%A5%9E%E7%A4%BE%E7%BB%84GoodEnding2%2Epng.html -->
 
 トリック・ノスタルジー | 死宛 | 燕乐玄鸟 | 甚平
 
   
-分类：连缘灵烈传 (未找到链接)
-  
-
-
-
-
+分类：连缘灵烈传 (未找到链接)  
 
 ---
 

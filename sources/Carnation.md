@@ -1,46 +1,38 @@
 # Carnation
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\35\ns0%3ACarnation.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\35\ns0%3ACarnation.html -->
 
 2023年5月7日 由 七輪大社 于 博丽神社例大祭20 发布的漫画同人志，B5尺寸一共24页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Carnation封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3d/Carnation%E5%B0%81%E9%9D%A2.jpg/139px-Carnation%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/3/3d/Carnation%E5%B0%81%E9%9D%A2.jpg/208px-Carnation%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3d/Carnation%E5%B0%81%E9%9D%A2.jpg/278px-Carnation%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="726" data-file-height="1025"></a><div class="cover-char">角色：<a href="./风见幽香.md" title="风见幽香">风见幽香</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Carnation </td></tr><tr><td class="label">制作方</td><td><a href="./七輪大社.md" title="七輪大社">七輪大社</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-Carnation封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3d/Carnation%E5%B0%81%E9%9D%A2.jpg/139px-Carnation%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/3/3d/Carnation%E5%B0%81%E9%9D%A2.jpg/208px-Carnation%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3d/Carnation%E5%B0%81%E9%9D%A2.jpg/278px-Carnation%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="726" data-file-height="1025"></a><div class="cover-char">角色：<a href="./风见幽香.md" title="风见幽香">风见幽香</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2023-05-07&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2320">第二十回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>24P</td></tr><tr><td class="label">售价</td><td>会场售价：400日元<br>通贩售价：500日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2023-05-07 （<a href="./展会作品列表.md#20">第二十回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>24P</td></tr><tr><td class="label">售价</td><td>会场售价：400日元<br>通贩售价：500日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/Y2_sichirin/status/1654122450509238272">https://twitter.com/Y2_sichirin/status/1654122450509238272</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/107814570">https://www.pixiv.net/artworks/107814570</a></td></tr></tbody></table>
 
 Carnation（同人志，七輪大社，2023） - 2023年5月7日 由 七輪大社 于 博丽神社例大祭20 发布的漫画同人志，B5尺寸一共24页，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1935179">蜜瓜</a></td></tr></tbody></table>
 
 
-
 ## 预览
-- [](./文件-Carnation预览图1.jpg.md)- [](./文件-Carnation预览图2.jpg.md)- [](./文件-Carnation预览图3.jpg.md)
+
+- <img alt="Carnation预览图1.jpg" src="https://upload.thwiki.cc/thumb/4/40/Carnation%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/268px-Carnation%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/4/40/Carnation%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/402px-Carnation%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/4/40/Carnation%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/536px-Carnation%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="643" data-file-height="900"> 
+- <img alt="Carnation预览图2.jpg" src="https://upload.thwiki.cc/thumb/4/4f/Carnation%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/268px-Carnation%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/4/4f/Carnation%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/402px-Carnation%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4f/Carnation%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/536px-Carnation%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 2x" data-file-width="643" data-file-height="900"> 
+- <img alt="Carnation预览图3.jpg" src="https://upload.thwiki.cc/thumb/a/a2/Carnation%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/268px-Carnation%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/a/a2/Carnation%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/402px-Carnation%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a2/Carnation%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/536px-Carnation%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 2x" data-file-width="643" data-file-height="900"> 
 
 
 ## Staff
+
 - Y2 (未找到链接)
 
 
 ## 评论
+
 ```
-幽香さんが霊夢のお願いで幻想郷を巡るお話です。
-幻想郷の皆様が少しずつでてくるゆるいお話です。 
-```
-
-  
-  
-
-  
-
-
-
+幽香さんが霊夢のお願いで幻想郷を巡るお話です。 幻想郷の皆様が少しずつでてくるゆるいお話です。 ```
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:宅庵vol.2_feat.東方Project封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E5%AE%85%E5%BA%B5vol%2E2_feat%2E%E6%9D%B1%E6%96%B9Project%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E5%AE%85%E5%BA%B5vol%2E2_feat%2E%E6%9D%B1%E6%96%B9Project%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 宅庵 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [宅庵vol.2 feat.東方Project](./宅庵vol.2_feat.東方Project.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [东风谷早苗](./东风谷早苗.md)
+- [宅庵vol.2 feat.東方Project](./宅庵vol.2_feat.東方Project.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [东风谷早苗](./东风谷早苗.md)
 
   
-源地址：[[1]](https://image.jimcdn.com/app/cms/image/transf/dimension=472x10000:format=jpg/path/s617f3fdf8bda1fb7/image/ie4b59687fc00bc54/version/1474007296/image.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://image.jimcdn.com/app/cms/image/transf/dimension=472x10000:format=jpg/path/s617f3fdf8bda1fb7/image/ie4b59687fc00bc54/version/1474007296/image.jpg)  
 
 ---
 

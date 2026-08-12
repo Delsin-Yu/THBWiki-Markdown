@@ -1,18 +1,13 @@
 # 文件:モヒカンbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E3%83%A2%E3%83%92%E3%82%AB%E3%83%B3banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E3%83%A2%E3%83%92%E3%82%AB%E3%83%B3banner%2Egif.html -->
 
 モヒカン | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://web.archive.org/web/20070925135603im_/http://chugin.com/mohican/img/banner/mohican.gif), [source page](https://web.archive.org/web/20090306203534/http://chugin.com/mohican/pro.html)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20070925135603im_/http://chugin.com/mohican/img/banner/mohican.gif), [source page](https://web.archive.org/web/20090306203534/http://chugin.com/mohican/pro.html)  
 
 ---
 

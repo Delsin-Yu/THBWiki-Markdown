@@ -1,6 +1,6 @@
 # 文件:Lebenstrieb_&_Todestrieb封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3ALebenstrieb_%26_Todestrieb%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3ALebenstrieb_%26_Todestrieb%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Demetori | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Demetori | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Lebenstrieb &amp; Todestrieb](./Lebenstrieb_&_Todestrieb.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [Lebenstrieb & Todestrieb](./Lebenstrieb_&_Todestrieb.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/C1vOw7VVQAAQjkF.jpg:large)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/C1vOw7VVQAAQjkF.jpg:large)  
 
 ---
 

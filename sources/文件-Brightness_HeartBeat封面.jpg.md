@@ -1,6 +1,6 @@
 # 文件:Brightness_HeartBeat封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3ABrightness_HeartBeat%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3ABrightness_HeartBeat%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Undefined_Field | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Undefined_Field | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Brightness HeartBeat](./Brightness_HeartBeat.md)  
-该封面包含的角色：- [苏我屠自古](./苏我屠自古.md)
-
-
-
+- [Brightness HeartBeat](./Brightness_HeartBeat.md)该封面包含的角色：
+- [苏我屠自古](./苏我屠自古.md)
 
 
 ---

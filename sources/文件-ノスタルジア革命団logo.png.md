@@ -1,12 +1,8 @@
 # 文件:ノスタルジア革命団logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E3%83%8E%E3%82%B9%E3%82%BF%E3%83%AB%E3%82%B8%E3%82%A2%E9%9D%A9%E5%91%BD%E5%9B%A3logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E3%83%8E%E3%82%B9%E3%82%BF%E3%83%AB%E3%82%B8%E3%82%A2%E9%9D%A9%E5%91%BD%E5%9B%A3logo%2Epng.html -->
 
 ノスタルジア革命団 | 社团LOGO
-
-
-
-
 
 
 ---

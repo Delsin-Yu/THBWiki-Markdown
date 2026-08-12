@@ -1,16 +1,12 @@
 # 模板:Circle_Ultra_Summer_Festa
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\20\ns10%3ACircle_Ultra_Summer_Festa.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\20\ns10%3ACircle_Ultra_Summer_Festa.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

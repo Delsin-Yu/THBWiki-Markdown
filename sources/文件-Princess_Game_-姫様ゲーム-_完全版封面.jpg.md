@@ -1,6 +1,6 @@
 # 文件:Princess_Game_-姫様ゲーム-_完全版封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3APrincess_Game_-%E5%A7%AB%E6%A7%98%E3%82%B2%E3%83%BC%E3%83%A0-_%E5%AE%8C%E5%85%A8%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3APrincess_Game_-%E5%A7%AB%E6%A7%98%E3%82%B2%E3%83%BC%E3%83%A0-_%E5%AE%8C%E5%85%A8%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 いんどの宮殿！ | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Princess Game -姫様ゲーム- 完全版](./Princess_Game_-姫様ゲーム-_完全版.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [Princess Game -姫様ゲーム- 完全版](./Princess_Game_-姫様ゲーム-_完全版.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

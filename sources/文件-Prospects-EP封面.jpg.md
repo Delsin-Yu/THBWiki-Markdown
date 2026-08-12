@@ -1,6 +1,6 @@
 # 文件:Prospects-EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AProspects-EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AProspects-EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Tengu_Corp | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Tengu_Corp | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Prospects-EP](./Prospects-EP.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Prospects-EP](./Prospects-EP.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

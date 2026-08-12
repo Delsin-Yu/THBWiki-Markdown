@@ -1,18 +1,13 @@
 # 文件:青春18金魚banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E9%9D%92%E6%98%A518%E9%87%91%E9%AD%9Abanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E9%9D%92%E6%98%A518%E9%87%91%E9%AD%9Abanner%2Ejpg.html -->
 
 社团LOGO | 青春18金魚
 
 
 ## 文件说明
   
-源地址：[[1]](http://www.18kingyo.com/img/bn1.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.18kingyo.com/img/bn1.jpg)  
 
 ---
 

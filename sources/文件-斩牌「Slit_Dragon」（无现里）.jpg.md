@@ -1,14 +1,11 @@
 # 文件:斩牌「Slit_Dragon」（无现里）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E6%96%A9%E7%89%8C%E3%80%8CSlit_Dragon%E3%80%8D%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E6%96%A9%E7%89%8C%E3%80%8CSlit_Dragon%E3%80%8D%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89%2Ejpg.html -->
 
 乌蛇 | 连缘Project官方符牌 | 连缘无现里
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:If_I_Only_Had_a_Heart封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3AIf_I_Only_Had_a_Heart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3AIf_I_Only_Had_a_Heart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 かぼちゃ色積乱雲 | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [If I Only Had a Heart](./If_I_Only_Had_a_Heart.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)- [秦心](./秦心.md)
-
-
-
+- [If I Only Had a Heart](./If_I_Only_Had_a_Heart.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
+- [秦心](./秦心.md)
 
 
 ---

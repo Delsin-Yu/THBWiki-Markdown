@@ -1,14 +1,11 @@
 # 文件:FOX_RAVELbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AFOX_RAVELbanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AFOX_RAVELbanner2%2Ejpg.html -->
 
 FOX_RAVEL | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 
